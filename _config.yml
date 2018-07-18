@@ -52,12 +52,13 @@ event_infos:
   ##- title: Algunas cifras
   ##  content: <span class="wtm-highlight">9</span> ponentes en Barcelona<br/> <span class="wtm-highlight">10</span> ponentes en Menorca<br/> <span class="wtm-highlight">6</span> ponentes en Tarragona<br/> <span class="wtm-highlight">3</span> ponentes en Salamanca<br/> <span class="wtm-highlight">13</span> ponentes en Valencia<br/> <span class="wtm-highlight">33</span> ponentes en Madrid
   ##  image: img/services/chatting.jpg
-  #- title: ¿Dónde se ha celebrado hasta ahora?
-  #  content: <span class="wtm-highlight">9</span> ponentes en Barcelona<br/> <span class="wtm-highlight">10</span> ponentes en Menorca<br/> <span class="wtm-highlight">6</span> ponentes en Tarragona<br/> <span class="wtm-highlight">3</span> ponentes en Salamanca<br/> <span class="wtm-highlight">13</span> ponentes en Valencia<br/> <span class="wtm-highlight">33</span> ponentes en Madrid
-  #  image: img/imgs_dossier/MapaSpainWTM.jpg
-  #- title: WTM Zaragoza 2017
-  #  content: Consiguió <strong>más de 33 ponentes</strong>.<br/><br/>El 60% de las ponentes dieron una charla por primera vez.<br/><br/>Ampliaron el círculo de networking de muchas mujeres.<br/><br/>Ayudaron a las empresas a <strong>encontrar mujeres profesionales</strong> en el sector de la tecnología.<br/><br/>También nos dieron el empujón para que este año organicemos Women Techmakers Zaragoza.
-  #  image: img/services/organizersmad.jpg
+  - title: ¿Dónde se ha celebrado hasta ahora?
+    content: En Barcelona con <span class="wtm-highlight">18</span> ponentes<br/>En Gijón <span class="wtm-highlight">12</span> ponentes<br/>En Jaén <span class="wtm-highlight">3</span> ponentes<br/>En Logroño <span class="wtm-highlight">5</span> ponentes<br/>En Madrid <span class="wtm-highlight">38</span> ponentes<br/>En Tenerife <span class="wtm-highlight">9</span> ponentes<br/>En Valencia <span class="wtm-highlight">16</span> ponentes<br/>En Vigo <span class="wtm-highlight">6</span> ponentes
+    image: img/imgs_dossier/MapaSpainWTM.jpg
+  - title: Cifras de WTM Zaragoza 2017
+    content: Más de 220 adultos y 30 niños asistentes<br/><br/>Repartidos en 2 tracks de charlas más 1 aula talleres<br/><br/>Más de un 70% de mujeres asistentes<br/><br/>96 propuestas recibidas en el Call for Papers<br/><br/>38 de las 96 pidieron el programa mentor<br/><br/>22 charlas impartidas<br/><br/>Las 100 primeras entradas se agotaron en 30 minutos<br/><br/>3º puesto en Trending Topic en España
+
+    image: img/wtmz17/organizers.jpg
 
 #List for organizers
 organizers:
