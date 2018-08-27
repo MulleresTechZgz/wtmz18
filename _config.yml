@@ -67,51 +67,61 @@ organizers:
     image:
     twitter_account: EstherBorao
     linkedin_account: 
+    mail_account: esther@mullerestech.es
   - name: Miriam Durán
     text: 
     image:
     twitter_account: miripi
     linkedin_account: 
+    mail_account: miriam@mullerestech.es
   - name: Cynthia Gálvez
     text: 
     image:
     twitter_account: icynthia
     linkedin_account: 
+    mail_account: cynthia@mullerestech.es
   - name: Patricia Heredia
     text: 
     image:
     twitter_account: pherediagil
     linkedin_account: 
+    mail_account: patricia@mullerestech.es
   - name: Laura Lacarra
     text: 
     image:
     twitter_account: LauraLacarra
     linkedin_account: 
+    mail_account: laura@mullerestech.es
   - name: Cristina Pérez
     text: 
     image: img/organizadoras/cristina_perez.jpg
     twitter_account: cristinapg
     linkedin_account: 
+    mail_account: cristina@mullerestech.es
   - name: Jessica Redrado
     text: 
     image:
     twitter_account: Jessi_Redrado
     linkedin_account: jessica-redrado-martinez
+    mail_account: jessica@mullerestech.es
   - name: Paloma Royo
     text: 
     image:
     twitter_account: plmrc_
     linkedin_account: 
+    mail_account: paloma@mullerestech.es
   - name: Ana Sánchez
     text: 
     image: img/organizadoras/ana_sanchez.jpg
     twitter_account: _Ana_Sanchez_
     linkedin_account: anasanchezalvarez
+    mail_account: ana@mullerestech.es
   - name: Nieves Sancho
     text: 
     image:
     twitter_account: Nievesancho
     linkedin_account: 
+    mail_account: nieves@mullerestech.es
 
 #List for speakers
 speakers:
