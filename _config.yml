@@ -408,143 +408,127 @@ talks_track_1:
     twitter_speaker: 
   - time: 10:00-10:30
     track: all
-    name: 'PRESENTACIÓN: Laura Lacarra (Track 1)'
+    name: 'PRESENTACIÓN (Track 1)'
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
   - time: '10:30-10:55'
     track: 1
-    name: 'Experiencias de una ingeniero senior: del amperio a la gestión de equipos'
-    descrip: 'El contenido de la charla pretende a través de mi experiencia personal y partiendo de cómo una mujer con un título de ingeniería industrial en la mano se enfrenta al mercado laboral en el año 1991.<br/>En estos 26 años la sociedad y las empresas han cambiado tecnológicamente a pasos agigantados, pero los roles sociales, la gestión de los recursos humanos, la visibilidad de la mujer STEM no ha avanzado en igual proporción.<br/>¿Por qué a las niñas no les gustan las matemáticas? ¿Qué estamos haciendo mal? ¿Por qué seguimos en un ratio de puestos de dirección que no se corresponde con la preparación académica (y emocional)? ¿Qué factores influyen?<br/>Trataré de exponer qué experiencias he vivido o he visto en relación a ello, al objeto de ofrecer sugerencias para que la mujer tecnológica rompa su propio techo de cristal y ocupe el lugar que merece, no por el simple hecho de ser mujer, sino porque se están desperdiciando objetivamente sus grandes capacidades para el desarrollo de las empresas y la sociedad.'
-    speaker: Marisa Claver Barón
+    name: '-'
+    descrip: '-'
+    speaker: '-'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: BDHyZMftnrQ
+    url_youtube: 
   - time: 11:00-11:25
     track: 1
-    name: 'Más de 10 Años acercando la tecnología a las chicas en Aragón'
-    descrip: 'Será una síntesis de las actividades que desde AMIT-Aragón realizamos para acercar la ingeniería y la tecnología a la sociedad y en particular para que más chicas se animen a realizar estudios técnicos. Más de una década de experiencias, análisis y bastante trabajo.'
-    speaker: María Villarroya Gaudó
+    name: '-'
+    descrip: '-'
+    speaker: '-'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: nRLoexIesw4
-  - time: '11:30-11:40'
+    url_youtube: 
+  - time: '11:30-11:55'
     track: 1
-    name: 'Talento femenino en la gestión y dirección de proyectos y equipos'
-    descrip: 'Hay muchas mujeres en puestos directivos y estratégicos de la vida académica, profesional y política del momento.<br/>En esta charla profundizaremos en cómo las mujeres utilizan su talento peculiar en la gestión y dirección de proyectos y equipos'
-    speaker: Mayte Ortín Puertolas
+    name: '-'
+    descrip: '-'
+    speaker: '-'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: kWmYkB5kqkg
-  - time: '11:45-12:15'
+    url_youtube: 
+  - time: '12:00-12:25'
     track: all
     name: DESCANSO CAFÉ
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 12:15-12:40
+  - time: 12:30-12:55
     track: 1
-    name: 'Tecnología y diseño 3d aplicado a la escenografía'
-    descrip: 'Voy a explicar cómo se aplica a tecnología 3d a la escenografía y la tematización para cine y parques temáticos, entre otros. Explicaré cómo desarrollamos en Shu Digital los proyectos para su posterior fabricación mediante impresión 3d y robots de mecanizado. Mostraré los proyectos más importantes en los que hemos trabajado. Mi objetivo es compartir con todos y todas las infinitas posibilidades y aplicaciones que tiene la tecnología 3d dentro del mundo del arte y la creatividad.'
-    speaker: Irene Luzán Gallego
+    name: '-'
+    descrip: '-'
+    speaker: '-'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: IlhHkdoMr8A
-  - time: 12:45-13:10
+    url_youtube: 
+  - time: 13:00-13:25
     track: 1
-    name: 'Una sede electronica para la igualdad de oportunidades'
-    descrip: 'Como responsable de la web municipal en mi ponencia explicaré cómo se ha ido desarrollando la sede electrónica del Ayuntamiento de Zaragoza, en qué manera ha contribuido a la igualdad de oportunidades y se explicará también qué características y pilares la han sostenido a lo largo de las distintas etapas del proyecto.'
-    speaker: Maria Jesus Fernández Ruiz
+    name: '-'
+    descrip: '-'
+    speaker: '-'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: zo1hw8nFQXs
-  - time: 13:15-13:40
+    url_youtube: 
+  - time: 13:30-13:55
     track: 1
-    name: 'Cómo Youtube nos ayuda a conseguir nuestros sueños'
-    descrip: 'Voy a hablar sobre como se puede aprender de todo a través de youtube de manera gratuita, porqué todo el mundo debería realizar un proyecto personal, la necesidad de tener foco para sacarle partido a estos recursos y sobre la necesidad de pedir ayuda. '
-    speaker: Lucia Sanchez
+    name: '-'
+    descrip: '-'
+    speaker: '-'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: oxWFVjHe5j0
-  - time: 13:45-14:10
-    track: 1
-    name: 'No, este robot no lo ha hecho mi hermano'
-    descrip: 'Todos tenemos una gran curiosidad científica cuando somos pequeños, pero debemos alimentarla para que se desarrolle.<br/>Ahora existen herramientas muy potentes para trabajar tecnología con niños. ¿Te da miedo? No hace falta tener un gran dominio de la materia, en esta charla mostraremos proyectos realizados por una niña de 9 años y animaremos a otras niñas a interesarse por el mundo de la tecnología. ¡Es algo muy divertido!'
-    speaker: Valeria Corrales Chavarría y Patricia Heredia Gil
-    bio_speaker: 
-    twitter_speaker: 
-    url_youtube: 8Uw7lmBJqEI
-  - time: 14:15-15:45
+    url_youtube: 
+  - time: 14:00-15:55
     track: all
     name: COMIDA
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 15:45-16:10
+  - time: 16:00-16:25
     track: 1
-    name: 'Cuando las mujeres coordinan una start up'
-    descrip: 'El ecosistema emprendedor, especialmente el relacionado con empresas de base tecnológica, es mayoritariamente masculino. Nuestra start-up ha pasado de estar gestionada por dos hombres entrados en los cuarenta con más de 20 años de experiencia, a estar coordinada por Cynthia y Diana, dos mujeres jóvenes sin casi experiencia. Cynthia es ingeniera informática, gráfica y emprendedora. Diana es doctora en robótica y madre. Las dos tenemos formas de ser diferentes pero que han encajado muy bien para lograr manejar con éxito a todo un equipo. Queremos contar nuestra experiencia, cómo afrontamos el traspaso de funciones, cómo se lo tomaron nuestros compañeros, qué logros hemos conseguido y en qué nos hemos equivocado.'
-    speaker: 'Diana Ruiz'
+    name: '-'
+    descrip: '-'
+    speaker: '-'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: 8BaX-X2IEDc
-  - time: 16:15-16:25
-    track: 1
-    name: 'Aprendiendo a que los ordenadores aprendan'
-    descrip: 'Desde películas clásicas de ciencia ficción a los últimos artículos científicos, la inteligencia artificial es un concepto muy presente hoy en día. Pero: ¿cómo podemos enseñar a los ordenadores y cómo éstos aprenden? A día de hoy, todavía no sabemos como funciona al 100% nuestro cerebro ni cómo aprende, sin embargo, sabemos muy bien que los humanos aprendemos a base de ejemplos y repetición. El "aprendizaje automático" aplica esta misma técnica pero a los ordenadores, de manera que se están obteniendo mejores resultados que los que se conseguían hasta hace unos pocos años. Durante la charla presentaré el concepto de aprendizaje automático y "deep learning", mostraré casos de aplicación y alguna como de librerías y/o herramienta disponibles.'
-    speaker: Ana Belén Cambra Linés
-    bio_speaker: 
-    twitter_speaker: 
-    url_youtube: wZA-lEGBHw8
+    url_youtube: 
   - time: 16:30-16:55
     track: 1
-    name: 'Mi viaje del desarrollo al diseño y todo lo que aprendí por el camino'
-    descrip: 'En los dos últimos años he reconvertido mi carrera profesional del desarrollo al diseño. Entender y participar en  el proceso de la creación del producto digital desde varios puntos de vista me ha hecho darme cuenta de cuantas cosas podemos mejorar en los equipos y los procesos de trabajo cambiando la mentalidad de "desarrollo vs diseño" a "desarrollo + diseño". En esta charla me gustaría compartir con vosotros mi experiencia así como algunos consejos que nos pueden ayudar en el trabajo del día a día.'
-    speaker: Lucía Gómez López
+    name: '-'
+    descrip: '-'
+    speaker: '-'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: dnBzNy1vEsY
-  - time: 17:00-17:30
+    url_youtube: 
+  - time: 17:00-17:25
+    track: 1
+    name: '-'
+    descrip: '-'
+    speaker: '-'
+    bio_speaker: 
+    twitter_speaker: 
+    url_youtube: 
+  - time: 17:30-17:55
     track: all
     name: DESCANSO CAFÉ
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 17:30-17:55
-    track: 1
-    name: 'Educando a través de la tecnología'
-    descrip: 'Esta charla es la visión que yo tengo sobre cómo se puede educar a través de la tecnología, no solamente en conocimientos teóricos, sino también con experiencias, cercanía, sensaciones, valores... Cosa que siempre nos ha parecido fundamental.<br/>A través de las herramientas con las que trabajamos en la clase, conseguimos obtener tanto conocimientos acerca de programación, electrónica y demás, como fomentar el trabajo en equipo, la colaboración, la imaginación...<br/>Nuestra pretensión es que los niños no sean meros espectadores, sino que sean creadores de su propia realidad.'
-    speaker: Raquel García Escobedo
-    bio_speaker: 
-    twitter_speaker: 
-    url_youtube: hTruhnWlL74
   - time: 18:00-18:25
     track: 1
-    name: 'Mujeres en ciberseguridad: ¡cambiemos los números!'
-    descrip: 'La ciberseguridad está de moda. Casi cada día, los medios de comunicación se hacen eco de alguna noticia relacionada con la seguridad informática. Empresas y organizaciones de todo tipo son cada vez más conscientes de la importancia de una buena estrategia en la materia y están tomando medidas. Sin embargo, y a pesar del auge, hay pocos profesionales capacitados y el ratio de mujeres es desesperanzador: no supera el 10%<br/>¿Qué es realmente la ciberseguridad? ¿Qué podemos aportar las mujeres? ¿Cómo podemos hacerla más atractiva? ¿Es posible cambiar los números? ¡Hablemos!'
-    speaker: Carmen López
+    name: '-'
+    descrip: '-'
+    speaker: '-'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: A861SkO4AbE
-  - time: 18:30-18:50
-    track: all
-    name: 'MONOLOGOS: RISArchers'
-    descrip: 
-    speaker: 
+    url_youtube: 
+  - time: 18:30-18:55
+    track: 1
+    name: '-'
+    descrip: '-'
+    speaker: '-'
     bio_speaker: 
     twitter_speaker: 
-  - time: '18:50-19:00'
+  - time: '19:00-19:30'
     track: all
     name: 'CIERRE: Staff WTM Zaragoza (Track 1)'
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: '19:00-20:00'  
+  - time: '19:30-20:30'  
     track: all
     name: 'Ms von Disko (DJ Set) y NETWORKING'
     descrip: 
@@ -560,145 +544,129 @@ talks_track_2:
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 10:30-10:30
+  - time: 10:00-10:30
     track: all
-    name: PRESENTACIÓN
+    name: 'PRESENTACIÓN '
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 10:30-10:55
+  - time: '10:30-10:55'
     track: 2
-    name: 'Cómo hacer un Think Aloud Test para mejorar tu producto digital'
-    descrip: 'Ponencia sobre el Think Aloud Test, un test de usabilidad con usuarios reales que busca mejorar un producto digital. Hablaremos de la importancia de realizar este tipo de test y de los pasos a seguir para su correcta realización.'
-    speaker: Veronica Abizanda
+    name: '-'
+    descrip: '-'
+    speaker: '-'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: PFdNgNEzvfU
-  - time: '11:00-11:25'
+    url_youtube: 
+  - time: 11:00-11:25
     track: 2
-    name: 'Usos inesperados para objetos comunes'
-    descrip: 'Una aspiradora y un proyector que se convierten en instrumentos musicales, cajas de música que traducen un calendario en una melodía, un paraguas que muestra tu estado de ánimo o lámparas que a parte de alumbrar, te enseñan los dientes.<br/>En esta charla se presentarán proyectos de mujeres artistas que han intervenido objetos comunes y les han proporcionado un nuevo uso utilizando herramientas como Arduino y sus derivados. <br/>Muchas de ellas son estudiantes del master Interface Cultures de la Kunstuni de Linz. Sus proyectos se han presentado en performances, exposiciones, y la mayor parte de ellos han sido creados para que el público pueda interactuar con ellos y cuestionarse su uso. Algunas de las artistas son: Ilona Stütz, Julia del Río, Klimentina Hristova, Or Wolff o Yen Tzu Chang.'
-    speaker: Marta Pérez Campos
+    name: '-'
+    descrip: '-'
+    speaker: '-'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: -82CNBwnyZM
-  - time: 11:30-11:40
+    url_youtube: 
+  - time: '11:30-11:55'
     track: 2
-    name: 'Cómo hacer que alguien de letras se interese por la ciencia a través de la tecnología'
-    descrip: 'Ahora me parece curiosa la frase de aquel profesor de F&Q que nos decía aquello de "sólo los tontos van a letras" ¡Y a mucha honra! Gracias a ser 100% de letras, hoy todo lo que veo me enamora. Y es eso lo que os quiero contar aquí: Cómo la tecnología puede conseguir que alguien de letras se enamore de la Ciencia'
-    speaker: Marta Azanza Hernández
+    name: '-'
+    descrip: '-'
+    speaker: '-'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: cDsk001C1JQ
-  - time: 11:45-12:15
+    url_youtube: 
+  - time: '12:00-12:25'
     track: all
     name: DESCANSO CAFÉ
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 12:15-12:40
+  - time: 12:30-12:55
     track: 2
-    name: 'El dinosaurio y la jirafa: una historia de research en Torresburriel Estudio'
-    descrip: 'Partiendo del dibujo que Pablo, un niño de cinco años, me regaló mientras su madre hacía un card sorting, explicaré qué hacemos en Torresburriel Estudio: research, diseño y testing, además de formar cada año a más de 150 personas en Usabilidad desde UX Learn, la división de formación de Torresburriel Estudio.<br/>En la charla se pondrá de manifiesto también por qué ser un equipo multidisciplinar y diverso (¡somos más chicas que chicos!) nos hace diseñar mejores productos digitales, la importancia de la diversidad y los valores de la compañía.'
-    speaker: Cristina Pérez Galán (TORRESBURRIEL ESTUDIO)
+    name: '-'
+    descrip: '-'
+    speaker: '-'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: 0tr7R4D7Rsk
-  - time: 12:45-13:10
+    url_youtube: 
+  - time: 13:00-13:25
     track: 2
-    name: 'From zero to hero @ adidas'
-    descrip: 'adidas lanza su nueva aplicación móvil a nivel global, analizaremos todo el proceso de desarrollo así como los puntos clave, problemáticas y soluciones que hemos tomado en el camino. Cómo salir a producción sin que tu equipo muera en el intento.'
-    speaker: Isabel Agustín Lafuente y Paloma Royo Cascajares (ADIDAS)
+    name: '-'
+    descrip: '-'
+    speaker: '-'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: vrCoPgcBJ_U
-  - time: 13:15-13:40
+    url_youtube: 
+  - time: 13:30-13:55
     track: 2
-    name: 'Sistemas de navegación por satélite europeos'
-    descrip: 'Hoy en día todos conocemos GPS y lo utilizamos en nuestro día a día. Pero, ¿sabemos qué es EGNOS? GPS tiene un inconveniente, no nos ofrece un posicionamiento íntegro y por tanto no puede utilizarse en aplicaciones críticas como en aviación (aterrizaje y despegue). Por eso, la Comisión Europea nos ofrece un sistema de navegación europeo gratuito que se llama EGNOS, que mejora la solución de GPS y ofrece Integridad para que pueda utilizarse en aplicaciones críticas. A parte, la Comisión Europea está actualmente desplegando el sistema Galileo, un sistema de posicionamiento global similar al americano GPS que incorporará diversas ventajas. Considerando todas las iniciativas de navegación por satélite que están desplegando todos los países (China, Rusia, Europa, Estados Unidos…), los receptores de la próxima década van a tener cientos posibilidades de posicionamiento por satélite!'
-    speaker: Elisabet Lacarra
+    name: '-'
+    descrip: '-'
+    speaker: '-'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: -4Fbhb0eqf0
-  - time: 13:45-14:10
-    track: 2
-    name: 'Marketing analítico:usando los datos para vender más'
-    descrip: '¿Qué papel juegan los datos hoy en día en el marketing online?. Acompáñanos en este viaje para descubrir diferentes herramientas para obtener información y aprender a utilizarla para conseguir vender más en Internet. Hablaremos de cómo busca la gente en los buscadores, de publicidad online o de analítica web, para ver cómo cualquier proyecto web, por pequeño que sea, puede beneficiarse de esta información disponible y mejorar sus resultados.'
-    speaker: Silvia Casas Cañadas
-    bio_speaker: 
-    twitter_speaker: 
-    url_youtube: _A3JUdtZlyI
-  - time: 14:15-15:45
+    url_youtube: 
+  - time: 14:00-15:55
     track: all
     name: COMIDA
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 15:45-16:10
+  - time: 16:00-16:25
     track: 2
-    name: 'Scrum my front: Cómo es mi día a día ágil como desarrolladora front'
-    descrip: '¿Quieres saber como se organiza el desarrollo ágil de una aplicación web? ¡Yo te lo cuento! Desde el backlog al MPV, de los prototipos a las integraciones... Todo mi día a día en 20 minutos.'
-    speaker: Noemi Medina (INTELYGENZ)
+    name: '-'
+    descrip: '-'
+    speaker: '-'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: DCdkrHpPsS4
-  - time: 16:15-16:25
-    track: 2
-    name: 'Sin género de dudas, tecnología'
-    descrip: 'Esta charla pretende abrir un espacio para reflexionar sobre cómo los estereotipos de género afectan a la actitud que toman las mujeres en el ámbito de la tecnología.'
-    speaker: Luisa Lahoz Folguera
-    bio_speaker: 
-    twitter_speaker: 
-    url_youtube: 3xlM-zn1wQM
+    url_youtube: 
   - time: 16:30-16:55
     track: 2
-    name: 'Cómo empatizar con el usuario desde el backend'
-    descrip: 'Quiero compartir mi experiencia como backend en estos últimos años y como desde el backend podemos empalizar con el usuario con estas tres ideas:<br/>1. Cuida tus errores<br/>2. Guía a tus usuarios<br/>3. Muestra lo necesario'
-    speaker: Belén Ortega (CENTRAL DE RESERVAS)
+    name: '-'
+    descrip: '-'
+    speaker: '-'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: krdJLwvze6s
-  - time: 17:00-17:30
+    url_youtube: 
+  - time: 17:00-17:25
+    track: 2
+    name: '-'
+    descrip: '-'
+    speaker: '-'
+    bio_speaker: 
+    twitter_speaker: 
+    url_youtube: 
+  - time: 17:30-17:55
     track: all
     name: DESCANSO CAFÉ
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 17:30-17:55
-    track: 2
-    name: '¿Cómo averiguamos si un bebé puede ver bien?'
-    descrip: 'Es muy difícil diagnosticar problemas visuales en bebés o niños muy pequeños porque no podemos comunicarnos con ellos. ¡Pero nosotros tenemos la solución! Utilizamos un dispositivo llamado eye tracker que nos permite saber a qué punto de la pantalla de un ordenador está mirando el niño. Gracias a esta tecnología, hemos diseñado varios test que nos permiten averiguar si los niños tienen problemas de vista.'
-    speaker: Marta Ortín Obon
-    bio_speaker: 
-    twitter_speaker: 
-    url_youtube: Mb5YqL_umoA
   - time: 18:00-18:25
     track: 2
-    name: 'Women in New Media Art - Etopia Archive'
-    descrip: 'En Women in New Media Art –Etopia Archive- comentaremos la investigación que he realizado desde el Archivo Español  New Media Art (AEMA) (UCLM), proyecto de excelencia europeo financiado por el ministerio para elaborar la Historia de New Media Art en España. Durante varios meses he realizado la catalogación y registro de las obras realizadas o expuestas en ETOPIA Centro de Arte y Tecnologías desde su apertura (2012) hasta la actualidad. Después de todo ese tiempo, con la ponencia pondré en valor dicho fondo documental en relación a los proyectos y obras relacionadas con las nuevas tecnologías de información, electrónica y telemática realizadas por mujeres. Una reflexión sobre aquellas inquietudes de todas estas artistas al sentirse impulsadas a trabajar con las nuevas tecnologías como medio de expresión idóneo para desarrollar y mostrar su discurso artístico.'
-    speaker: María Blasco
+    name: '-'
+    descrip: '-'
+    speaker: '-'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: EThrVOIE77k
-  - time: 18:30-18:50
+    url_youtube: 
+  - time: 18:30-18:55
+    track: 2
+    name: '-'
+    descrip: '-'
+    speaker: '-'
+    bio_speaker: 
+    twitter_speaker: 
+  - time: '19:00-19:30'
     track: all
-    name: MONOLOGOS
+    name: 'CIERRE'
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: '18:50-19:00'
-    track: all
-    name: CIERRE
-    descrip: 
-    speaker: 
-    bio_speaker: 
-    twitter_speaker: 
-  - time: '19:00-20:00'  
+  - time: '19:30-20:30'  
     track: all
     name: 'DJ Set y NETWORKING'
     descrip: 
