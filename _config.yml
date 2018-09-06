@@ -305,36 +305,41 @@ speakers:
 
 #List for sponsors
 sponsors_platinum:
-  - name: Torresburriel Estudio
+  #- name: Torresburriel Estudio
+  #  text: 
+  #  image: img/patrocinadores/platinum/torresburriel.png
+  #  web: http://www.torresburriel.com/
+  #  twitter: uxTBE
+  #- name: Etopia
+  #  text: 
+  #  image: img/patrocinadores/platinum/fzc.png
+  #  web: http://www.zaragoza.es/ciudad/etopia/
+  #  twitter: FundacionZCC
+  #- name: Intelygenz
+  #  text: 
+  #  image: img/patrocinadores/platinum/intelygenz.png
+  #  web: http://www.intelygenz.es/
+  #  twitter: Intelygenz
+  #- name: Adidas
+  #  text: 
+  #  image: img/patrocinadores/platinum/adidas.png
+  #  web: https://www.adidas.es/
+  #  twitter: adidas_ES
+  #- name: Central de Reservas
+  #  text: 
+  #  image: img/patrocinadores/platinum/central_reservas.png
+  #  web: https://www.centraldereservas.com/
+  #  twitter: centralreservas
+  #- name: Google
+  #  text: 
+  #  image: img/patrocinadores/platinum/google.png
+  #  web: https://www.google.es/
+  #  twitter: GoogleES
+  - name: Tecnología esPublico
     text: 
-    image: img/patrocinadores/platinum/torresburriel.png
-    web: http://www.torresburriel.com/
-    twitter: uxTBE
-  - name: Etopia
-    text: 
-    image: img/patrocinadores/platinum/fzc.png
-    web: http://www.zaragoza.es/ciudad/etopia/
-    twitter: FundacionZCC
-  - name: Intelygenz
-    text: 
-    image: img/patrocinadores/platinum/intelygenz.png
-    web: http://www.intelygenz.es/
-    twitter: Intelygenz
-  - name: Adidas
-    text: 
-    image: img/patrocinadores/platinum/adidas.png
-    web: https://www.adidas.es/
-    twitter: adidas_ES
-  - name: Central de Reservas
-    text: 
-    image: img/patrocinadores/platinum/central_reservas.png
-    web: https://www.centraldereservas.com/
-    twitter: centralreservas
-  - name: Google
-    text: 
-    image: img/patrocinadores/platinum/google.png
-    web: https://www.google.es/
-    twitter: GoogleES
+    image: img/patrocinadores/platinum/esPublico.jpg
+    web: https://espublico.tech/
+    twitter: TEspublico
 
 sponsors_gold:
   #- name: Hiberus Tecnologia
@@ -342,70 +347,81 @@ sponsors_gold:
   #  image: img/patrocinadores/gold/hiberus.png
   #  web: https://www.hiberus.com/hiberus-tecnologia
   #  twitter: hiberus
-  - name: Polux Solutions
-    text: 
-    image: img/patrocinadores/gold/polux.jpg
-    web: http://www.polux-solutions.com/Index.aspx
-    twitter: Polux_Solutions
-  - name: Mujeres Tech
-    text: 
-    image: img/patrocinadores/gold/mujeres_tech.png
-    web: https://mujerestech.com/
-    twitter: MujeresTech
-  - name: Cuéntica
-    text: 
-    image: img/patrocinadores/gold/cuentica.png
-    web: https://cuentica.com/
-    twitter: cuentica
-  - name: Plain Concepts
-    text: 
-    image: img/patrocinadores/gold/plain_concepts.png
-    web: https://www.plainconcepts.com/
-    twitter: plainconcepts
+  #- name: Polux Solutions
+  #  text: 
+  #  image: img/patrocinadores/gold/polux.jpg
+  #  web: http://www.polux-solutions.com/Index.aspx
+  #  twitter: Polux_Solutions
+  #- name: Mujeres Tech
+  #  text: 
+  #  image: img/patrocinadores/gold/mujeres_tech.png
+  #  web: https://mujerestech.com/
+  #  twitter: MujeresTech
+  #- name: Cuéntica
+  #  text: 
+  #  image: img/patrocinadores/gold/cuentica.png
+  #  web: https://cuentica.com/
+  #  twitter: cuentica
+  #- name: Plain Concepts
+  #  text: 
+  #  image: img/patrocinadores/gold/plain_concepts.png
+  #  web: https://www.plainconcepts.com/
+  #  twitter: plainconcepts
 
 sponsors_silver:
-  - name: Usit Development
+  #- name: Usit Development
+  #  text: 
+  #  image: img/patrocinadores/silver/usit.png
+  #  web: http://usitdevelopment.com/
+  #  twitter: UsitDev
+  #- name: Asseco Spain
+  #  text: 
+  #  image: img/patrocinadores/silver/asseco_spain.png
+  #  web: https://es.asseco.com/
+  #  twitter: assecoESP
+  #- name: SiteGround
+  #  text: 
+  #  image: img/patrocinadores/silver/siteground.png
+  #  web: https://www.siteground.es/
+  #  twitter: SiteGround_ES
+  #- name: Usit Development
+  #  text: 
+  #  image: img/patrocinadores/silver/usit.png
+  #  web: http://usitdevelopment.com/
+  #  twitter: UsitDev
+  - name: GeoSLab
     text: 
-    image: img/patrocinadores/silver/usit.png
-    web: http://usitdevelopment.com/
-    twitter: UsitDev
-  - name: Asseco Spain
-    text: 
-    image: img/patrocinadores/silver/asseco_spain.png
-    web: https://es.asseco.com/
-    twitter: assecoESP
-  - name: SiteGround
-    text: 
-    image: img/patrocinadores/silver/siteground.png
-    web: https://www.siteground.es/
-    twitter: SiteGround_ES
+    image: img/patrocinadores/silver/geosLab.jpg
+    web: https://www.geoslab.com/
+    twitter: GeoSLab
+    
 
 sponsors_others:
-  - name: Ambar
-    text: 
-    image: img/patrocinadores/colaboradores/ambar.png
-    web: https://ambar.com
-    twitter: cervezasambar
-  - name: Semmantica
-    text: 
-    image: img/patrocinadores/colaboradores/semmantica.png
-    web: http://www.semmantica.com/
-    twitter: semmantica
-  - name: Ticketea
-    text: 
-    image: img/patrocinadores/colaboradores/ticketea.png
-    web: https://www.ticketea.com/
-    twitter: ticketea
-  - name: Donuts
-    text: 
-    image: img/patrocinadores/colaboradores/donuts.png
-    web: http://donuts.es/
-    twitter: Donuts_es
-  - name: Eboca
-    text: 
-    image: img/patrocinadores/colaboradores/eboca.png
-    web: https://www.eboca.com/
-    twitter: EbocaVending
+  #- name: Ambar
+  #  text: 
+  #  image: img/patrocinadores/colaboradores/ambar.png
+  #  web: https://ambar.com
+  #  twitter: cervezasambar
+  #- name: Semmantica
+  #  text: 
+  #  image: img/patrocinadores/colaboradores/semmantica.png
+  #  web: http://www.semmantica.com/
+  #  twitter: semmantica
+  #- name: Ticketea
+  #  text: 
+  #  image: img/patrocinadores/colaboradores/ticketea.png
+  #  web: https://www.ticketea.com/
+  #  twitter: ticketea
+  #- name: Donuts
+  #  text: 
+  #  image: img/patrocinadores/colaboradores/donuts.png
+  #  web: http://donuts.es/
+  #  twitter: Donuts_es
+  #- name: Eboca
+  #  text: 
+  #  image: img/patrocinadores/colaboradores/eboca.png
+  #  web: https://www.eboca.com/
+  #  twitter: EbocaVending
 
 # Agenda
 talks_track_1:
