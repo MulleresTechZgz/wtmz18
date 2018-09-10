@@ -310,11 +310,21 @@ sponsors_platinum:
   #  image: img/patrocinadores/platinum/torresburriel.png
   #  web: http://www.torresburriel.com/
   #  twitter: uxTBE
-  #- name: Etopia
-  #  text: 
-  #  image: img/patrocinadores/platinum/fzc.png
-  #  web: http://www.zaragoza.es/ciudad/etopia/
-  #  twitter: FundacionZCC
+  - name: Fundacion Zaragoza Conocimiento
+    text: 
+    image: img/patrocinadores/platinum/fzc.png
+    web: http://www.fundacionzcc.org/
+    twitter: FundacionZCC
+  - name: Fundacion Ibercaja
+    text: 
+    image: img/patrocinadores/platinum/fundacion_ibercaja.png
+    web: https://obrasocial.ibercaja.es/
+    twitter: IbercajaSocial
+  - name: Etopia
+    text: 
+    image: img/patrocinadores/platinum/etopia.jpg
+    web: http://www.zaragoza.es/ciudad/etopia/
+    twitter: etopia_
   #- name: Intelygenz
   #  text: 
   #  image: img/patrocinadores/platinum/intelygenz.png
@@ -397,11 +407,11 @@ sponsors_silver:
     
 
 sponsors_others:
-  #- name: Ambar
-  #  text: 
-  #  image: img/patrocinadores/colaboradores/ambar.png
-  #  web: https://ambar.com
-  #  twitter: cervezasambar
+  - name: Ambar
+    text: 
+    image: img/patrocinadores/colaboradores/ambar.png
+    web: https://ambar.com
+    twitter: cervezasambar
   #- name: Semmantica
   #  text: 
   #  image: img/patrocinadores/colaboradores/semmantica.png
@@ -412,16 +422,21 @@ sponsors_others:
   #  image: img/patrocinadores/colaboradores/ticketea.png
   #  web: https://www.ticketea.com/
   #  twitter: ticketea
-  #- name: Donuts
-  #  text: 
-  #  image: img/patrocinadores/colaboradores/donuts.png
-  #  web: http://donuts.es/
-  #  twitter: Donuts_es
-  #- name: Eboca
-  #  text: 
-  #  image: img/patrocinadores/colaboradores/eboca.png
-  #  web: https://www.eboca.com/
-  #  twitter: EbocaVending
+  - name: Donuts
+    text: 
+    image: img/patrocinadores/colaboradores/donuts.png
+    web: http://donuts.es/
+    twitter: Donuts_es
+  - name: Eboca
+    text: 
+    image: img/patrocinadores/colaboradores/eboca.png
+    web: https://www.eboca.com/
+    twitter: EbocaVending
+  - name: Autentia
+    text: 
+    image: img/patrocinadores/colaboradores/autentia.png
+    web: https://www.autentia.com/
+    twitter: autentia
 
 # Agenda
 talks_track_1:
