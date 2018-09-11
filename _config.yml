@@ -325,31 +325,31 @@ sponsors_platinum:
     image: img/patrocinadores/platinum/etopia.jpg
     web: http://www.zaragoza.es/ciudad/etopia/
     twitter: etopia_
-  #- name: Intelygenz
-  #  text: 
-  #  image: img/patrocinadores/platinum/intelygenz.png
-  #  web: http://www.intelygenz.es/
-  #  twitter: Intelygenz
-  #- name: Adidas
-  #  text: 
-  #  image: img/patrocinadores/platinum/adidas.png
-  #  web: https://www.adidas.es/
-  #  twitter: adidas_ES
-  #- name: Central de Reservas
-  #  text: 
-  #  image: img/patrocinadores/platinum/central_reservas.png
-  #  web: https://www.centraldereservas.com/
-  #  twitter: centralreservas
-  #- name: Google
-  #  text: 
-  #  image: img/patrocinadores/platinum/google.png
-  #  web: https://www.google.es/
-  #  twitter: GoogleES
+  - name: Deiser
+    text: 
+    image: img/patrocinadores/platinum/deiser.png
+    web: https://deiser-enterprise-day.deiser.com/
+    twitter: deiser
   - name: Tecnología esPublico
     text: 
     image: img/patrocinadores/platinum/esPublico.jpg
     web: https://espublico.tech/
     twitter: TEspublico
+  - name: Adidas
+    text: 
+    image: img/patrocinadores/platinum/adidas.png
+    web: https://www.adidas.es/
+    twitter: adidas_ES
+  #- name: Enciende la Luz
+  #  text: 
+  #  image: img/patrocinadores/platinum/enciende_la_luz.png
+  #  web: https://enciendelaluz.es/
+  #  twitter: enciendelaluzya
+  #- name: Google
+  #  text: 
+  #  image: img/patrocinadores/platinum/google.png
+  #  web: https://www.google.es/
+  #  twitter: GoogleES
 
 sponsors_gold:
   #- name: Hiberus Tecnologia
@@ -379,31 +379,21 @@ sponsors_gold:
   #  twitter: plainconcepts
 
 sponsors_silver:
-  #- name: Usit Development
-  #  text: 
-  #  image: img/patrocinadores/silver/usit.png
-  #  web: http://usitdevelopment.com/
-  #  twitter: UsitDev
-  #- name: Asseco Spain
-  #  text: 
-  #  image: img/patrocinadores/silver/asseco_spain.png
-  #  web: https://es.asseco.com/
-  #  twitter: assecoESP
-  #- name: SiteGround
-  #  text: 
-  #  image: img/patrocinadores/silver/siteground.png
-  #  web: https://www.siteground.es/
-  #  twitter: SiteGround_ES
-  #- name: Usit Development
-  #  text: 
-  #  image: img/patrocinadores/silver/usit.png
-  #  web: http://usitdevelopment.com/
-  #  twitter: UsitDev
   - name: GeoSLab
     text: 
     image: img/patrocinadores/silver/geosLab.jpg
     web: https://www.geoslab.com/
     twitter: GeoSLab
+  - name: Elastic
+    text: 
+    image: img/patrocinadores/silver/elastic.png
+    web: https://www.elastic.co/
+    twitter: elastic
+  - name: Cuéntica
+    text: 
+    image: img/patrocinadores/silver/cuentica.png
+    web: https://cuentica.com/
+    twitter: cuentica
     
 
 sponsors_others:
@@ -412,16 +402,6 @@ sponsors_others:
     image: img/patrocinadores/colaboradores/ambar.png
     web: https://ambar.com
     twitter: cervezasambar
-  #- name: Semmantica
-  #  text: 
-  #  image: img/patrocinadores/colaboradores/semmantica.png
-  #  web: http://www.semmantica.com/
-  #  twitter: semmantica
-  #- name: Ticketea
-  #  text: 
-  #  image: img/patrocinadores/colaboradores/ticketea.png
-  #  web: https://www.ticketea.com/
-  #  twitter: ticketea
   - name: Donuts
     text: 
     image: img/patrocinadores/colaboradores/donuts.png
@@ -437,6 +417,16 @@ sponsors_others:
     image: img/patrocinadores/colaboradores/autentia.png
     web: https://www.autentia.com/
     twitter: autentia
+  - name: Eventbrite
+    text: 
+    image: img/patrocinadores/colaboradores/eventbrite.png
+    web: https://www.eventbrite.es/
+    twitter: eventbrite
+  - name: Te Neon Project
+    text: 
+    image: img/patrocinadores/colaboradores/the_neon_project.png
+    web: https://theneonproject.org/
+    twitter: tnpgram
 
 # Agenda
 talks_track_1:
