@@ -35,6 +35,7 @@
 
                 <td class="small" colspan="2">{{ talk_track_1.name }}</td>
 
+
                 {% else %}
 
                   {% assign talk_track_1_name = talk_track_1.name | strip_newlines %}
@@ -46,13 +47,20 @@
                   {% assign talk_track_1_youtube = talk_track_1.url_youtube | strip_newlines %}
                   {% assign talk_track_2_youtube = talk_track_2.url_youtube | strip_newlines %}
 
+                  {% assign talk_track_1_rowspan = talk_track_1.rowspan | strip_newlines %}
+                  {% assign talk_track_2_rowspan = talk_track_2.rowspan | strip_newlines %}
+
                   {% if talk_track_1_name == "" %}
 
                 <td class="empty"></td>
 
-                  {% else %}
-
+                  {% else%}
+                    {% if talk_track_1_rowspan != '0' %}
+                      {% if talk_track_1_rowspan == '2' %}
+                <td rowspan="2">
+                      {% else %}
                 <td>
+                      {% endif %}
                   <a href="#" data-toggle="modal" data-target="#talk-{{ forloop.index0 }}-{{ talk_track_1.track }}">{{ talk_track_1.name }}</a>
                   <!-- Modal -->
                   <div class="modal fade" id="talk-{{ forloop.index0 }}-{{ talk_track_1.track }}" role="dialog">
@@ -87,6 +95,7 @@
                   </div>
                 </td>
 
+                  {% endif %}
                   {% endif %}
 
                   {% if talk_track_2_name == "" %}
@@ -141,7 +150,7 @@
    </div>
    {% endif %}
 
-   {% if site.workshops_track_1 %}
+   {% if site.workshops_track_1_ %}
     <div class="row text-center">
       <div class="col-lg-10 col-lg-offset-1">
         <h3 class="ribbon ribbon-lg">TALLERES</h3>

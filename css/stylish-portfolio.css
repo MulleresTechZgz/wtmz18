@@ -260,7 +260,7 @@ hr.small {
 
 .speaker-item a {
     color: #4285f4;
-    display: block;
+    /*display: block;*/
     text-decoration: inherit;
 }
 
@@ -869,6 +869,7 @@ ul i {
     border: 2px solid white;
     padding: 5px;
     position: relative;
+    vertical-align: middle; 
 }
 
 .agenda-v2 table .small {

@@ -15,20 +15,21 @@
       </div>
       <div class="col-lg-10 col-lg-offset-1" style="display:flex; flex-wrap:wrap; justify-content:center;">
         {% for guest in site.guests %}
-        <div class="col-md-3 col-sm-3 col-xs-3">
+
+          {% assign image_guest = guest.image | strip_newlines %}
+          {% assign image_card_guest = guest.image_card | strip_newlines %}
+          {% assign twitter_guest = guest.twitter_account | strip_newlines %}
+          {% assign linkedin_guest = guest.linkedin_account | strip_newlines %}
+          {% assign web_guest = guest.web | strip_newlines %}
+          {% assign bio_guest = guest.bio | strip_newlines %}
+            <div class="col-md-3 col-sm-3 col-xs-3">
               <div class="speaker-item">
                 <a href="#" data-toggle="modal" data-target="#guest-{{ forloop.index0 }}">
                     <span class="fa-stack fa-5x">
                       <i class="fa fa-circle fa-stack-2x"></i>
 
-                      {% assign image_guest = guest.image | strip_newlines %}
-                      {% assign twitter_guest = guest.twitter_account | strip_newlines %}
-                      {% assign linkedin_guest = guest.linkedin_account | strip_newlines %}
-                      {% assign web_guest = guest.web | strip_newlines %}
-                      {% assign bio_guest = guest.bio | strip_newlines %}
-
                       {% if image_guest != ""  %}
-                      <img src="{{ image_guest }}" class="fa fa-stack-1x text-primary img-circle"/>
+                      <img src="{{ image_guest }}_c.jpg" class="fa fa-stack-1x text-primary img-circle"/>
                       {% elsif twitter_speaker != "" %}
                       <img src="https://avatars.io/twitter/{{ guest.twitter_account }}" class="fa fa-stack-1x text-primary img-circle"/>
                       {% else %}
@@ -46,20 +47,20 @@
                   
                     <!-- Modal content-->
                     <div class="modal-content">
+                      {% if image_card_guest != ""  %}
+                      <div class="modal-body" style="background-image: url({{ image_card_guest }}.jpg); background-repeat: no-repeat; background-size: 100%; height: 32vw;">
+                          <button type="button" class="close" data-dismiss="modal">&times;</button>
+                      </div>
+                      {% else  %}
                       <div class="modal-body">
                           <button type="button" class="close" data-dismiss="modal">&times;</button>
                           <div class="wtm-modal-content-left">
+                            
                             <span class="fa-stack fa-4x">
                               <i class="fa fa-circle fa-stack-2x"></i>
 
-                              {% assign image_guest = guest.image | strip_newlines %}
-                              {% assign twitter_guest = guest.twitter_account | strip_newlines %}
-                              {% assign linkedin_guest = guest.linkedin_account | strip_newlines %}
-                              {% assign web_guest = guest.web | strip_newlines %}
-                              {% assign bio_guest = guest.bio | strip_newlines %}
-
                               {% if image_guest != ""  %}
-                              <img src="{{ image_guest }}" class="fa fa-stack-1x text-primary img-circle"/>
+                              <img src="{{ image_guest }}_c.jpg" class="fa fa-stack-1x text-primary img-circle"/>
                               {% elsif twitter_guest != "" %}
                               <img src="https://avatars.io/twitter/{{ guest.twitter_account }}" class="fa fa-stack-1x text-primary img-circle"/>
                               {% else %}
@@ -80,8 +81,10 @@
                                 <a href="{{ guest.web }}" target="_blank">
                                     <i class="fa fa-link fa-fw fa-2x"></i></a>
                                 {% endif %}
+                              
                           </div>
                           <div class="wtm-modal-content-right text-left">
+                            
                               {% if bio_guest != ""  %}
                                 <p>{{ guest.bio }}</p>
                               {% else %}
@@ -93,6 +96,7 @@
                             
                           </div>
                       </div>
+                      {% endif %}
                     </div>
                     
                   </div>
@@ -123,20 +127,21 @@
         </div>
         -->
         {% for speaker in site.speakers %}
+          {% assign image_speaker = speaker.image | strip_newlines %}
+          {% assign image_card_speaker = speaker.image_card | strip_newlines %}
+          {% assign twitter_speaker = speaker.twitter_account | strip_newlines %}
+          {% assign linkedin_speaker = speaker.linkedin_account | strip_newlines %}
+          {% assign linkedin_2_speaker = speaker.linkedin_account_2 | strip_newlines %}
+          {% assign web_speaker = speaker.web | strip_newlines %}
+          {% assign bio_speaker = speaker.bio | strip_newlines %}
         <div class="col-md-3 col-sm-4 col-xs-6">
               <div class="speaker-item">
                 <a href="#" data-toggle="modal" data-target="#speaker-{{ forloop.index0 }}">
                     <span class="fa-stack fa-4x">
                       <i class="fa fa-circle fa-stack-2x"></i>
 
-                      {% assign image_speaker = speaker.image | strip_newlines %}
-                      {% assign twitter_speaker = speaker.twitter_account | strip_newlines %}
-                      {% assign linkedin_speaker = speaker.linkedin_account | strip_newlines %}
-                      {% assign web_speaker = speaker.web | strip_newlines %}
-                      {% assign bio_speaker = speaker.bio | strip_newlines %}
-
                       {% if image_speaker != ""  %}
-                      <img src="{{ image_speaker }}" class="fa fa-stack-1x text-primary img-circle"/>
+                      <img src="{{ image_speaker }}_c.jpg" class="fa fa-stack-1x text-primary img-circle"/>
                       {% elsif twitter_speaker != "" %}
                       <img src="https://avatars.io/twitter/{{ speaker.twitter_account }}" class="fa fa-stack-1x text-primary img-circle"/>
                       {% else %}
@@ -146,6 +151,27 @@
                       <h4>
                         {{ speaker.name }}
                       </h4>
+                      {% if twitter_speaker != ""  %}
+                      <a href="https://twitter.com/{{ speaker.twitter_account }}" target="_blank">
+                        <i class="fa fa-twitter fa-fw fa-2x"></i>
+                      </a>
+                      {% endif %}
+                      {% if linkedin_speaker != ""  %}
+                      <a href="https://www.linkedin.com/in/{{ speaker.linkedin_account }}" target="_blank">
+                        <i class="fa fa-linkedin fa-fw fa-2x"></i>
+                      </a>
+                      {% endif %}
+                      {% if linkedin_2_speaker != ""  %}
+                      <a href="https://www.linkedin.com/in/{{ speaker.linkedin_account_2 }}" target="_blank">
+                        <i class="fa fa-linkedin fa-fw fa-2x"></i>
+                      </a>
+                      {% endif %}
+                      {% if web_speaker != ""  %}
+                      <a href="{{ speaker.web }}" target="_blank">
+                        <i class="fa fa-link fa-fw fa-2x"></i>
+                      </a>
+                      {% endif %}
+                      
                 </a>
 
                 <!-- Modal -->
@@ -154,20 +180,19 @@
                   
                     <!-- Modal content-->
                     <div class="modal-content">
+                      {% if image_card_speaker != ""  %}
+                      <div class="modal-body" style="background-image: url({{ image_card_speaker }}.jpg); background-repeat: no-repeat; background-size: 100%; height: 32vw;">
+                          <button type="button" class="close" data-dismiss="modal">&times;</button>
+                      </div>
+                      {% else  %}
                       <div class="modal-body">
                           <button type="button" class="close" data-dismiss="modal">&times;</button>
                           <div class="wtm-modal-content-left">
                             <span class="fa-stack fa-4x">
                               <i class="fa fa-circle fa-stack-2x"></i>
 
-                              {% assign image_speaker = speaker.image | strip_newlines %}
-                              {% assign twitter_speaker = speaker.twitter_account | strip_newlines %}
-                              {% assign linkedin_speaker = speaker.linkedin_account | strip_newlines %}
-                              {% assign web_speaker = speaker.web | strip_newlines %}
-                              {% assign bio_speaker = speaker.bio | strip_newlines %}
-
                               {% if image_speaker != ""  %}
-                              <img src="{{ image_speaker }}" class="fa fa-stack-1x text-primary img-circle"/>
+                              <img src="{{ image_speaker }}_c.jpg" class="fa fa-stack-1x text-primary img-circle"/>
                               {% elsif twitter_speaker != "" %}
                               <img src="https://avatars.io/twitter/{{ speaker.twitter_account }}" class="fa fa-stack-1x text-primary img-circle"/>
                               {% else %}
@@ -183,6 +208,11 @@
                                 {% if linkedin_speaker != ""  %}
                                 <a href="https://www.linkedin.com/in/{{ speaker.linkedin_account }}" target="_blank">
                                     <i class="fa fa-linkedin fa-fw fa-2x"></i></a>
+                                {% endif %}
+                                {% if linkedin_2_speaker != ""  %}
+                                <a href="https://www.linkedin.com/in/{{ speaker.linkedin_account_2 }}" target="_blank">
+                                    <i class="fa fa-linkedin fa-fw fa-2x"></i>
+                                </a>
                                 {% endif %}
                                 {% if web_speaker != ""  %}
                                 <a href="{{ speaker.web }}" target="_blank">
@@ -201,6 +231,7 @@
                             
                           </div>
                       </div>
+                      {% endif %}
                     </div>
                     
                   </div>

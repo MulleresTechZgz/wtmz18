@@ -127,48 +127,136 @@ organizers:
 guests:
   - name: Pilar Alegría
     bio: 'Diputada por Zaragoza en las cortes de Aragón y Consejera de Innovación, Investigación y Universidad del Gobierno de Aragón.'
-    image: img/ponentes/PilarAlegria.jpg
+    image: img/ponentes/PilarAlegria
+    image_card: img/ponentes/fichas/PilarAlegria
     twitter_account: Pilar_Alegria
     linkedin_account: 
   - name: Gina Tost
     bio: 'Youtuber, precursora del vídeo online en el Internet, antes de la invención de YouTube, especializada en tecnología, videojuegos, economía mobile y startups.'
-    image: img/ponentes/GinaTost.jpg
+    image: img/ponentes/GinaTost
+    image_card: img/ponentes/fichas/GinaTost
     twitter_account: GinaTost
     linkedin_account: 
 
 #List for speakers
 speakers:
-  - name: Azahara Fernandéz
+  #- name: Pilar Barbero
+  #  bio: ''
+  #  image: 
+  #  twitter_account: 
+  #  linkedin_account:
+  - name: Maria Berenguer
+    bio: 'Agilista, informática, teatrera y pianista. Siempre aprendiz, ahora Scrum Master. Desde que un día me dijeron: "Tú eres ágil, y todavía no lo sabes", invierto mi tiempo en aprender y descubrir qué es. Agile como forma de vida.'
+    image: img/ponentes/MariaBerenguer
+    twitter_account: merybere
+    linkedin_account:
+  #- name: Marta Cambronero
+  #  bio: ''
+  #  image: 
+  #  twitter_account: 
+  #  linkedin_account:
+  - name: Sandra Escudero Sanchez
+    bio: 'Soy Sandra Escudero, Ingeniera Informática por la Universidad de Zaragoza. Llevo 3 años en keensoft UST Global trabajando en el desarrollo de software, y más específicamente en gestión de proyectos. El interés por la tecnología desde que era pequeña y el querer afrontar nuevos retos me llevó hasta este increíble mundo de la informática. Lo que más me gusta de mi carrera es la oportunidad de crecer cada día y de aprender cosas nuevas, y es que con ganas e ilusión somos capaces de desarrollar todo lo que tenemos en nuestra mente.'
+    image: img/ponentes/SandraEscudero
+    image_card: 
+    twitter_account: SandraEscS
+    linkedin_account:
+  - name: Azahara Fernandéz Guizán
     bio: 'Soy desarrolladora de software (.Net y Angular) reconvertida en 2015, tras obtener un doctorado en Inmunología. Desde Abril de 2018 trabajo en Sngular, en la sede de Oviedo.<br/>Me encanta desarrollar, aprender idiomas, asistir a eventos y compartir con la comunidad. Formo parte de AsturiasHacking y también de Afaya tratando de ayudar en todo lo que se me necesite. Siempre positiva y buscando el lado bueno de las cosas.'
-    image: img/ponentes/AzaharaFernandez.jpg
+    image: img/ponentes/AzaharaFernandez
+    image_card: img/ponentes/fichas/AzaharaFernandez
     twitter_account: azahara_fergui
     linkedin_account:  
-  - name: María Fernández
+  - name: María Fernández Rodriguez
     bio: 'María Fernández (minimeri) es una diseñadora senior con un amplio bagaje multidisciplinar: grafismo de videojuegos, diseño gráfico y web... centrándose finalmente en el diseño centrado en usuario , diseño de interfaz para nuevos dispositivos, diseño de producto y liderando equipos de UX.<br/>Ultimamente se ha centrado en estudiar neurociencia vinculándola con la teoría del diseño.'
-    image: img/ponentes/MariaFernandez.jpg
+    image: img/ponentes/MariaFernandez
+    image_card: img/ponentes/fichas/MariaFernandez
     twitter_account: meri_minimeri
     linkedin_account: 
-  - name: Susana González
+  #- name: Laura Fernando
+  #  bio: ''
+  #  image: 
+  #  twitter_account: 
+  #  linkedin_account:
+  - name: Vanessa Galcerà Reales
+    bio: 'Ingeniera Informática con 4 años como formadora certificada de Sun Microsystems y Red Hat. Desde 2012 realiza tareas de Lead Software Engineer en proyectos con Oracle ADF.<br/>Lleva más de 7 años involucrada en diferentes iniciativas orientadas a divulgar y formar en nuevas tecnologías como el GDGTarragona. Desde 2014, también está colaborando en dar visibilidad y potenciar la presencia de las mujeres en el campo de la tecnología organizando eventos Women Techmakers en Tarragona.'
+    image: img/ponentes/VanessaGalcera
+    twitter_account: VanessaGaRe
+    linkedin_account:
+  - name: Girls to Program (G2P)
+    bio: 'Girls to Program (G2P) es el nombre de una aplicación que hemos desarrollado un grupo de niñas de 10 años de Huesca, somos: Alejandra Bagé, Paula Sanclemente, Sara Miravé y Valeria Corrales. Nos encanta el deporte, el inglés y la tecnología, tanto es así que este año participamos en un concurso internacional, Technovation Challenge, y desarrollamos una app para ayudar a niñas en entornos rurales a encontrar recursos para aprender tecnología.'
+    image: img/ponentes/Girls2Program
+    twitter_account: Girls2Program 
+    linkedin_account:
+  - name: Susana González Ruisanchez
     bio: 'Abogada especialista en Derecho Tecnológico y ciberseguridad. Socia en ECIX Group. Auditora Jefe ISO 27001 Aenor Seguridad de la Información. Formadora y ponente en congresos y eventos de las áreas de especialización y asidua colaboradora en diversas publicaciones de referencia en el sector legal tecnológico y ciberseguridad. Miembro de junta fundadora de la Asociación nacional de profesionales del hacking ético, juristas y miembros de seguridad del estado. Colaboradora experta en la Red de Conocimiento de Computer World. Docente del curso de experto universitario en derecho tecnológico e informática forense de la UNEX, del máster de compliance de ICAB, del Curso de Ciberderecho de ICAM. Promotora de www.CONPilar.es Zaragoza Congreso anual de ciberseguridad de Zaragoza.'
-    image: img/ponentes/SusanaGonzalez.jpg
+    image: img/ponentes/SusanaGonzalez
+    image_card: img/ponentes/fichas/SusanaGonzalez
     twitter_account: sudigitallawyer
     linkedin_account: susanagonzalezruisanchez
-  - name: Ibana Lardies
+  - name: 'Andrea Gracia García y Eva Omedes Domene'
+    bio: 'Somos Andrea Gracia García y Eva Omedes Domene, y ambas vivimos en Zaragoza.<br/>A pesar de haber estudiado diferentes cosas anteriormente, nos conocimos en el Grado de Proyectos de Obra Civil, y en la actualidad, trabajamos también juntas en atBIM, así que ya llevamos 3 años juntas.<br/>Nos gusta la edificación, las estructuras, modelar edificios y formas singulares, y siempre, con la ambición de aprender cosas nuevas y mejorar.'
+    image: img/ponentes/AndreaGraciaEvaOmedes
+    twitter_account: 
+    linkedin_account: andrea-gracia-garcia-290b94145
+    linkedin_account_2: eva-omedes-366315128
+  - name: Laura Lacarra
+    bio: 'Laura Lacarra es una maña muy mañosa.  Estudió Ingeniería Informática en el famoso y  extinguido nombre CPS y acumula 9 años de experiencia en el desarrollo de software tocando Java y Python. Recientemente trabaja como Devops en el equipo de BI y BigData producción de Telefónica. Se lo pasa muy bien asistiendo a eventos y organizando unos cuantos. Colabora con Mulleres Tech, WTM Zaragoza, Cachirulo Valley en la actualidad. Ha colaborado en comunidades Betabeers Zaragoza y Agile Aragón. '
+    image: 
+    twitter_account: LauraLacarra 
+    linkedin_account:
+  - name: Ibana Lardies Muñoz
     bio: 'Mi nombre es Ibana Lardies.<br/>Soy Ingeniera de Telecomunicaciones.<br/>Tengo 20 años de experiencia en la Industria de IT.<br/>Trabajé en un grupo bancario diseñando e implementando redes de Comunicaciones.<br/>A continuación me incorporé a IBM Spain, donde he realizado proyectos, he sido Leader en Compliance&Service Assurance en Network y actualmente soy Arquitecta de IT, diseñando soluciones para clientes.'
-    image: img/ponentes/IbanaLardies.jpg
+    image: img/ponentes/IbanaLardies
+    image_card: img/ponentes/fichas/IbanaLardies
     twitter_account: 
     linkedin_account: ibana-lardies-muñoz
-  - name: Nerea Luis
+  - name: Laura López Navaz
+    bio: 'Laura López Navaz es la autora del blog Cómo ser tu Digital Manager. Blog personal donde comparte artículos sobre Búsqueda de Empleo y Redes Sociales. Laura está en aprendizaje continuo, en periodo de formación para convertirse en una referente del sector enfocando su web en la Transformación Digital y la Gestión de la Reputación Online'
+    image: img/ponentes/LauraLopez
+    twitter_account: lauralopeznavaz
+    linkedin_account:
+  - name: Nerea Luis Mingueza
     bio: 'Estudiante de doctorado en el campo del razonamiento y la planificación multiagente (Inteligencia Artificial). Fundadora de T3chFest. Experta en #Los100de Cotec en Tecnología, Talento y Género. Técnico de asesoramiento científico en Ciencia en el Parlamento. Women Techmaker Scholar en 2016. Me encantan los robots <3'
-    image: img/ponentes/NereaLuis.jpg
+    image: img/ponentes/NereaLuis
+    image_card: img/ponentes/fichas/NereaLuis
     twitter_account: sailormerqury
     linkedin_account: 
-  - name: Veronica Rodriguez
+  #- name: Susana Luna
+  #  bio: ''
+  #  image: 
+  #  twitter_account: 
+  #  linkedin_account:
+  - name: Mayte Ortin
+    bio: 'Diplomada en Estadística por la Universidad de Zaragoza.<br/>Actualmente Directora Gerente de Aragonesa de Servicios Telemáticos, entidad pública del Gobierno de Aragón responsable de las infraestructuras y servicios en el ámbito de las tecnologías de la información y las telecomunicaciones.<br/>Su andadura profesional comenzó en 1999 en el sector TIC donde ha desempeñado funciones de dirección, gestión de proyectos e ingeniería del software.'
+    image: img/ponentes/MayteOrtin
+    twitter_account:  
+    linkedin_account: MayteOrtin
+  - name: Alba Pardo Ortiz
+    bio: 'Soy Alba Pardo, de Zaragoza, y allí es donde me matriculé en Matemáticas sin pensármelo demasiado. Desde que acabé estoy en el mundo de la informática, descubriendo su amplio abanico de posibilidades, siempre atraída por aprender y enfrentarme a nuevos retos. Actualmente trabajo en keensoft UST Global, aprendiendo de la mano de grandes profesionales.'
+    image: img/ponentes/AlbaPardo
+    twitter_account: albapo15 
+    linkedin_account: 
+  #- name: Patricia Perochena
+  #  bio: ''
+  #  image: 
+  #  twitter_account: 
+  #  linkedin_account:
+  - name: Veronica Rodriguez Perez
     bio: 'Especialista en Realidad Virtual, Transmedia Storytelling y Branded Content, apasionada de las historias y sus formatos. Ha trabajado en empresas de publicidad y audiovisuales y participado en diferentes proyectos de realidad virtual. Actualmente es organizadora de la comunidad de VR / AR / MR de Madrid xR World y escribe en su blog I AM VR'
-    image: img/ponentes/VeronicaRodriguez.jpg
+    image: img/ponentes/VeronicaRodriguez
     twitter_account: veronica_IamVR
     linkedin_account:
-  
+  #- name: Nerea Tamayo
+  #  bio: ''
+  #  image: 
+  #  twitter_account: 
+  #  linkedin_account:
+  #- name: Sonsoles Valero
+  #  bio: ''
+  #  image: 
+  ##  twitter_account: 
+  #  linkedin_account:
 
 #List for sponsors
 sponsors_platinum:
@@ -271,6 +359,11 @@ sponsors_silver:
     image: img/patrocinadores/silver/commit.png
     web: https://2018.commit-conf.com/
     twitter: commitconf
+  - name: KeenSoft
+    text: 
+    image: img/patrocinadores/silver/keensoft.png
+    web: http://www.keensoft.es/
+    twitter: keensoft_es
     
 
 sponsors_others:
@@ -307,14 +400,14 @@ sponsors_others:
 
 # Agenda
 talks_track_1:
-  - time: 09:30-10:00
+  - time: 09:00-09:45
     track: all
     name: REGISTRO
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 10:00-10:30
+  - time: 09:45-10:30
     track: all
     name: 'PRESENTACIÓN (Track 1)'
     descrip: 
@@ -323,25 +416,25 @@ talks_track_1:
     twitter_speaker: 
   - time: '10:30-10:55'
     track: 1
-    name: '-'
-    descrip: '-'
-    speaker: '-'
+    name: 'Lo que nos hace humanos'
+    descrip: ''
+    speaker: 'Nerea Luis Mingueza'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
   - time: 11:00-11:25
     track: 1
-    name: '-'
-    descrip: '-'
-    speaker: '-'
+    name: 'Gestión TI en el Gobierno de Aragón: ¿y si te llaman 55.000 usuarios?'
+    descrip: ''
+    speaker: 'Mayte Ortín'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
   - time: '11:30-11:55'
     track: 1
-    name: '-'
-    descrip: '-'
-    speaker: '-'
+    name: 'Gina Tost'
+    descrip: ''
+    speaker: 'Gina Tost'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
@@ -354,28 +447,37 @@ talks_track_1:
     twitter_speaker: 
   - time: 12:30-12:55
     track: 1
-    name: '-'
-    descrip: '-'
-    speaker: '-'
+    name: 'G2P: Enseñando a programar con 10 años'
+    descrip: ''
+    speaker: 'Girls2Program'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
   - time: 13:00-13:25
     track: 1
-    name: '-'
-    descrip: '-'
-    speaker: '-'
+    rowspan: '2'
+    name: 'Innovación y tecnología: ¿dónde estamos y hacia dónde vamos?'
+    descrip: ''
+    speaker: 'Patrocinadores Platinum'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
   - time: 13:30-13:55
     track: 1
+    rowspan: '0'
     name: '-'
-    descrip: '-'
+    descrip: ''
     speaker: '-'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
+  - time: 13:55-14:00
+    track: all
+    name: Fotografia de grupo (Track 1)
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
   - time: 14:00-15:55
     track: all
     name: COMIDA
@@ -385,101 +487,108 @@ talks_track_1:
     twitter_speaker: 
   - time: 16:00-16:25
     track: 1
-    name: '-'
-    descrip: '-'
-    speaker: '-'
+    name: 'La era del Big Data en el deporte'
+    descrip: ''
+    speaker: 'Sandra Escudero Sanchez'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
   - time: 16:30-16:55
     track: 1
-    name: '-'
-    descrip: '-'
-    speaker: '-'
+    name: 'No me toques las webs que me conozco - Legal, Security & Compliance web'
+    descrip: ''
+    speaker: 'Susana González Ruisanchez'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
   - time: 17:00-17:25
-    track: 1
-    name: '-'
+    track: all
+    name: 'DESCANSO CAFÉ'
     descrip: '-'
     speaker: '-'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
   - time: 17:30-17:55
-    track: all
-    name: DESCANSO CAFÉ
-    descrip: 
-    speaker: 
-    bio_speaker: 
+    track: 1
+    name: 'Paciente 6.000.001 del síndrome del impostor.'
+    descrip: ''
+    speaker: 'Laura Lacarra'
+    bio_speaker: ''
     twitter_speaker: 
   - time: 18:00-18:25
     track: 1
-    name: '-'
-    descrip: '-'
-    speaker: '-'
+    name: '.Net Core y Aurelia.Js Challenge accepted!'
+    descrip: ''
+    speaker: 'Azahara Fernandez Guizán'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
   - time: 18:30-18:55
     track: 1
-    name: '-'
-    descrip: '-'
-    speaker: '-'
+    name: 'Retrospectivas, unas veces van en bici, otras veces huelen bien'
+    descrip: ''
+    speaker: 'Maria Berenguer'
     bio_speaker: 
     twitter_speaker: 
-  - time: '19:00-19:30'
+  - time: 19:00-19:45
     track: all
     name: 'CIERRE: Staff WTM Zaragoza (Track 1)'
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: '19:30-20:30'  
+  - time: 19:45-20:00
     track: all
-    name: 'Ms von Disko (DJ Set) y NETWORKING'
+    name: Fotografia de grupo (Track 1)
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: '20:00-21:00'  
+    track: all
+    name: 'DJ y NETWORKING'
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
 
 talks_track_2: 
-  - time: 09:30-10:00
+  - time: 09:00-09:45
     track: all
     name: REGISTRO
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: 10:00-10:30
+  - time: 09:45-10:30
     track: all
     name: 'PRESENTACIÓN '
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: '10:30-10:55'
+  - time: 10:30-10:55
     track: 2
-    name: '-'
-    descrip: '-'
-    speaker: '-'
+    name: 'Buenas practicas en Redes sociales y Reputcion digital'
+    descrip: ''
+    speaker: 'Laura López Navaz'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
   - time: 11:00-11:25
     track: 2
-    name: '-'
-    descrip: '-'
-    speaker: '-'
+    name: 'Las matematicas que no sabias que sabias'
+    descrip: ''
+    speaker: 'Alba Pardo Ortiz'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
   - time: '11:30-11:55'
     track: 2
-    name: '-'
-    descrip: '-'
-    speaker: '-'
+    name: 'Digitalizacion del sector de la contruccion, arquitectura e ingenieria'
+    descrip: ''
+    speaker: 'Eva Omedes'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
@@ -492,28 +601,35 @@ talks_track_2:
     twitter_speaker: 
   - time: 12:30-12:55
     track: 2
-    name: '-'
-    descrip: '-'
-    speaker: '-'
+    name: 'Women in XR: VR / AR / MR - Una nueva realidad'
+    descrip: ''
+    speaker: 'Veronica Rodriguez Perez'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
   - time: 13:00-13:25
     track: 2
-    name: '-'
-    descrip: '-'
-    speaker: '-'
+    name: 'El derecho a soñar, un documental sobre hacker y comunidades indigenas'
+    descrip: ''
+    speaker: 'Keka Lopez'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
   - time: 13:30-13:55
     track: 2
-    name: '-'
-    descrip: '-'
-    speaker: '-'
+    name: 'Perfect match: colaboración entre plataforma y mobile'
+    descrip: ''
+    speaker: 'Susana Luna y Nerea Tamayo'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
+  - time: 15:55-14:00
+    track: all
+    name: Foto de grupo
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
   - time: 14:00-15:55
     track: all
     name: COMIDA
@@ -523,58 +639,65 @@ talks_track_2:
     twitter_speaker: 
   - time: 16:00-16:25
     track: 2
-    name: '-'
-    descrip: '-'
-    speaker: '-'
+    name: 'A los chatbots les gustan mayores'
+    descrip: ''
+    speaker: 'Sonsoles Valero'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
   - time: 16:30-16:55
     track: 2
-    name: '-'
-    descrip: '-'
-    speaker: '-'
+    name: '¿Por que mi abuela sabe usar WhatsApp y no la aplicacion del banco?'
+    descrip: ''
+    speaker: 'Maria Fernandez'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
   - time: 17:00-17:25
-    track: 2
-    name: '-'
+    track: all
+    name: 'DESCANSO CAFÉ'
     descrip: '-'
     speaker: '-'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
   - time: 17:30-17:55
-    track: all
-    name: DESCANSO CAFÉ
-    descrip: 
-    speaker: 
+    track: 2
+    name: 'El trabajo del futuro: Arquitecto IT'
+    descrip: ''
+    speaker: 'Ibana Lardies'
     bio_speaker: 
     twitter_speaker: 
   - time: 18:00-18:25
     track: 2
-    name: '-'
-    descrip: '-'
-    speaker: '-'
+    name: 'Experiencias realizando mi primer videojuego'
+    descrip: ''
+    speaker: 'Vanessa Galcerà Reales'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
   - time: 18:30-18:55
     track: 2
-    name: '-'
-    descrip: '-'
-    speaker: '-'
+    name: '¿Que sabe Google de mi?'
+    descrip: ''
+    speaker: 'Pilar Barbero y Laura Fernando'
     bio_speaker: 
     twitter_speaker: 
-  - time: '19:00-19:30'
+  - time: '19:00-19:45'
     track: all
     name: 'CIERRE'
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: '19:30-20:30'  
+  - time: '19:45-20:00'
+    track: all
+    name: 'Foto de grupo'
+    descrip: 
+    speaker: 
+    bio_speaker: 
+    twitter_speaker: 
+  - time: '20:00-21:00'  
     track: all
     name: 'DJ Set y NETWORKING'
     descrip: 
