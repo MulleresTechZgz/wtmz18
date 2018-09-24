@@ -300,13 +300,18 @@ sponsors_platinum:
     image: img/patrocinadores/platinum/enciende_la_luz.png
     web: https://enciendelaluz.es/
     twitter: enciendelaluzya
+  - name: Autentia
+    text: 
+    image: img/patrocinadores/platinum/autentia.png
+    web: https://www.autentia.com/
+    twitter: autentia
+
+sponsors_gold:
   #- name: Google
   #  text: 
   #  image: img/patrocinadores/platinum/google.png
   #  web: https://www.google.es/
   #  twitter: GoogleES
-
-sponsors_gold:
   #- name: Hiberus Tecnologia
   #  text: 
   #  image: img/patrocinadores/gold/hiberus.png
@@ -382,11 +387,6 @@ sponsors_others:
     image: img/patrocinadores/colaboradores/eboca.png
     web: https://www.eboca.com/
     twitter: EbocaVending
-  - name: Autentia
-    text: 
-    image: img/patrocinadores/colaboradores/autentia.png
-    web: https://www.autentia.com/
-    twitter: autentia
   - name: Eventbrite
     text: 
     image: img/patrocinadores/colaboradores/eventbrite.png
@@ -449,14 +449,14 @@ talks_track_1:
     track: 1
     name: 'G2P: Enseñando a programar con 10 años'
     descrip: ''
-    speaker: 'Girls2Program'
+    speaker: 'Girls To Program'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
   - time: 13:00-13:25
     track: 1
     rowspan: '2'
-    name: 'Innovación y tecnología: ¿dónde estamos y hacia dónde vamos?'
+    name: 'Innovación, tecnología, negocio y género'
     descrip: ''
     speaker: 'Patrocinadores Platinum'
     bio_speaker: 
@@ -473,7 +473,7 @@ talks_track_1:
     url_youtube: 
   - time: 13:55-14:00
     track: all
-    name: Fotografia de grupo (Track 1)
+    name: Fotografía de grupo (Track 1)
     descrip: 
     speaker: 
     bio_speaker: 
@@ -487,15 +487,15 @@ talks_track_1:
     twitter_speaker: 
   - time: 16:00-16:25
     track: 1
-    name: 'La era del Big Data en el deporte'
+    name: 'La era del <i>Big Data</i> en el deporte'
     descrip: ''
-    speaker: 'Sandra Escudero Sanchez'
+    speaker: 'Sandra Escudero Sánchez'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
   - time: 16:30-16:55
     track: 1
-    name: 'No me toques las webs que me conozco - Legal, Security & Compliance web'
+    name: 'No me toques las webs que me conozco - <i>Legal, Security & Compliance web</i>'
     descrip: ''
     speaker: 'Susana González Ruisanchez'
     bio_speaker: 
@@ -518,9 +518,9 @@ talks_track_1:
     twitter_speaker: 
   - time: 18:00-18:25
     track: 1
-    name: '.Net Core y Aurelia.Js Challenge accepted!'
+    name: '<i>.Net Core</i> y <i>Aurelia.Js Challenge accepted</i>!'
     descrip: ''
-    speaker: 'Azahara Fernandez Guizán'
+    speaker: 'Azahara Fernández Guizán'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
@@ -528,7 +528,7 @@ talks_track_1:
     track: 1
     name: 'Retrospectivas, unas veces van en bici, otras veces huelen bien'
     descrip: ''
-    speaker: 'Maria Berenguer'
+    speaker: 'María Berenguer'
     bio_speaker: 
     twitter_speaker: 
   - time: 19:00-19:45
@@ -540,14 +540,14 @@ talks_track_1:
     twitter_speaker: 
   - time: 19:45-20:00
     track: all
-    name: Fotografia de grupo (Track 1)
+    name: Fotografía de grupo (Track 1)
     descrip: 
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: '20:00-21:00'  
+  - time: '20:00-22:00'  
     track: all
-    name: 'DJ y NETWORKING'
+    name: 'DJ, NETWORKING Y CENA'
     descrip: 
     speaker: 
     bio_speaker: 
@@ -570,7 +570,7 @@ talks_track_2:
     twitter_speaker: 
   - time: 10:30-10:55
     track: 2
-    name: 'Buenas practicas en Redes sociales y Reputcion digital'
+    name: 'Buenas prácticas en redes sociales y reputación digital'
     descrip: ''
     speaker: 'Laura López Navaz'
     bio_speaker: 
@@ -578,7 +578,7 @@ talks_track_2:
     url_youtube: 
   - time: 11:00-11:25
     track: 2
-    name: 'Las matematicas que no sabias que sabias'
+    name: 'Las matemáticas que no sabías que sabías'
     descrip: ''
     speaker: 'Alba Pardo Ortiz'
     bio_speaker: 
@@ -586,9 +586,9 @@ talks_track_2:
     url_youtube: 
   - time: '11:30-11:55'
     track: 2
-    name: 'Digitalizacion del sector de la contruccion, arquitectura e ingenieria'
+    name: 'Digitalización del sector de la construcción, arquitectura e ingeniería'
     descrip: ''
-    speaker: 'Eva Omedes'
+    speaker: 'Andrea Gracia García y Eva Omedes Domene'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
@@ -601,15 +601,15 @@ talks_track_2:
     twitter_speaker: 
   - time: 12:30-12:55
     track: 2
-    name: 'Women in XR: VR / AR / MR - Una nueva realidad'
+    name: '<i>Women in XR: VR / AR / MR</i> - Una nueva realidad'
     descrip: ''
-    speaker: 'Veronica Rodriguez Perez'
+    speaker: 'Verónica Rodríguez Pérez'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
   - time: 13:00-13:25
     track: 2
-    name: 'El derecho a soñar, un documental sobre hacker y comunidades indigenas'
+    name: '"El derecho a soñar", un documental sobre hacker y comunidades indígenas'
     descrip: ''
     speaker: 'Keka Lopez'
     bio_speaker: 
@@ -617,7 +617,7 @@ talks_track_2:
     url_youtube: 
   - time: 13:30-13:55
     track: 2
-    name: 'Perfect match: colaboración entre plataforma y mobile'
+    name: '<i>Perfect match</i>: colaboración entre plataforma y mobile'
     descrip: ''
     speaker: 'Susana Luna y Nerea Tamayo'
     bio_speaker: 
@@ -647,9 +647,9 @@ talks_track_2:
     url_youtube: 
   - time: 16:30-16:55
     track: 2
-    name: '¿Por que mi abuela sabe usar WhatsApp y no la aplicacion del banco?'
+    name: '¿Por qué mi abuela sabe usar WhatsApp y no la aplicación del banco?'
     descrip: ''
-    speaker: 'Maria Fernandez'
+    speaker: 'María Fernández Rodríguez'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
@@ -678,7 +678,7 @@ talks_track_2:
     url_youtube: 
   - time: 18:30-18:55
     track: 2
-    name: '¿Que sabe Google de mi?'
+    name: '¿Qué sabe Google de mí?'
     descrip: ''
     speaker: 'Pilar Barbero y Laura Fernando'
     bio_speaker: 
@@ -697,9 +697,9 @@ talks_track_2:
     speaker: 
     bio_speaker: 
     twitter_speaker: 
-  - time: '20:00-21:00'  
+  - time: '20:00-22:00'  
     track: all
-    name: 'DJ Set y NETWORKING'
+    name: 'DJ, NETWORKING Y CENA'
     descrip: 
     speaker: 
     bio_speaker: 
