@@ -3,7 +3,7 @@
   <div class="container">
 
     <div class="row text-center">
-      <div class="col-lg-10 col-lg-offset-1">
+      <div class="col-lg-12">
         <h2>Agenda</h2>
         <hr class="small">
       </div>
@@ -11,12 +11,12 @@
 
     {% if site.talks_track_1 %}
     <div class="row text-center">
-      <div class="col-lg-10 col-lg-offset-1">
+      <div class="col-lg-12">
         <h3 class="ribbon ribbon-lg">PONENCIAS</h3>
       </div>
     </div>
     <div class="row text-center sponsor-md">
-      <div class="col-lg-10 col-lg-offset-1">
+      <div class="col-lg-12">
         <div class="table-wrapper">
             <table class="col-lg-12 table table-nonfluid">
               <tr>
@@ -61,7 +61,11 @@
                       {% else %}
                 <td>
                       {% endif %}
-                  <a href="#" data-toggle="modal" data-target="#talk-{{ forloop.index0 }}-{{ talk_track_1.track }}">{{ talk_track_1.name }}</a>
+                  <a href="#" data-toggle="modal" data-target="#talk-{{ forloop.index0 }}-{{ talk_track_1.track }}">
+                    {{ talk_track_1.name }}
+                    <hr class="small" style="margin-top: 5px;margin-bottom: 5px;"/>
+                    <font style="font-size: 13px;">{{ talk_track_1.speaker }}</font>
+                  </a>
                   <!-- Modal -->
                   <div class="modal fade" id="talk-{{ forloop.index0 }}-{{ talk_track_1.track }}" role="dialog">
                     <div class="modal-dialog">
@@ -105,7 +109,11 @@
                   {% else %}
 
                 <td>
-                  <a href="#" data-toggle="modal" data-target="#talk-{{ forloop.index0 }}-{{ talk_track_2.track }}">{{ talk_track_2.name }}</a>
+                  <a href="#" data-toggle="modal" data-target="#talk-{{ forloop.index0 }}-{{ talk_track_2.track }}">
+                    {{ talk_track_2.name }}
+                    <hr class="small" style="margin-top: 5px;margin-bottom: 5px;"/>
+                    <font style="font-size: 13px;">{{ talk_track_2.speaker }}</font>
+                  </a>
                   <!-- Modal -->
                   <div class="modal fade" id="talk-{{ forloop.index0 }}-{{ talk_track_2.track }}" role="dialog">
                     <div class="modal-dialog">

@@ -140,21 +140,21 @@ guests:
 
 #List for speakers
 speakers:
-  #- name: Pilar Barbero
-  #  bio: ''
-  #  image: 
-  #  twitter_account: 
-  #  linkedin_account:
+  - name: Pilar Barbero
+    bio: ''
+    image: 
+    twitter_account: 
+    linkedin_account:
   - name: Maria Berenguer
     bio: 'Agilista, informática, teatrera y pianista. Siempre aprendiz, ahora Scrum Master. Desde que un día me dijeron: "Tú eres ágil, y todavía no lo sabes", invierto mi tiempo en aprender y descubrir qué es. Agile como forma de vida.'
     image: img/ponentes/MariaBerenguer
     twitter_account: merybere
     linkedin_account:
-  #- name: Marta Cambronero
-  #  bio: ''
-  #  image: 
-  #  twitter_account: 
-  #  linkedin_account:
+  - name: Marta Cambronero
+    bio: ''
+    image: 
+    twitter_account: 
+    linkedin_account:
   - name: Sandra Escudero Sanchez
     bio: 'Soy Sandra Escudero, Ingeniera Informática por la Universidad de Zaragoza. Llevo 3 años en keensoft UST Global trabajando en el desarrollo de software, y más específicamente en gestión de proyectos. El interés por la tecnología desde que era pequeña y el querer afrontar nuevos retos me llevó hasta este increíble mundo de la informática. Lo que más me gusta de mi carrera es la oportunidad de crecer cada día y de aprender cosas nuevas, y es que con ganas e ilusión somos capaces de desarrollar todo lo que tenemos en nuestra mente.'
     image: img/ponentes/SandraEscudero
@@ -173,11 +173,11 @@ speakers:
     image_card: img/ponentes/fichas/MariaFernandez
     twitter_account: meri_minimeri
     linkedin_account: 
-  #- name: Laura Fernando
-  #  bio: ''
-  #  image: 
-  #  twitter_account: 
-  #  linkedin_account:
+  - name: Laura Fernando
+    bio: ''
+    image: 
+    twitter_account: 
+    linkedin_account:
   - name: Vanessa Galcerà Reales
     bio: 'Ingeniera Informática con 4 años como formadora certificada de Sun Microsystems y Red Hat. Desde 2012 realiza tareas de Lead Software Engineer en proyectos con Oracle ADF.<br/>Lleva más de 7 años involucrada en diferentes iniciativas orientadas a divulgar y formar en nuevas tecnologías como el GDGTarragona. Desde 2014, también está colaborando en dar visibilidad y potenciar la presencia de las mujeres en el campo de la tecnología organizando eventos Women Techmakers en Tarragona.'
     image: img/ponentes/VanessaGalcera
@@ -222,11 +222,11 @@ speakers:
     image_card: img/ponentes/fichas/NereaLuis
     twitter_account: sailormerqury
     linkedin_account: 
-  #- name: Susana Luna
-  #  bio: ''
-  #  image: 
-  #  twitter_account: 
-  #  linkedin_account:
+  - name: Susana Luna
+    bio: ''
+    image: 
+    twitter_account: 
+    linkedin_account:
   - name: Mayte Ortin
     bio: 'Diplomada en Estadística por la Universidad de Zaragoza.<br/>Actualmente Directora Gerente de Aragonesa de Servicios Telemáticos, entidad pública del Gobierno de Aragón responsable de las infraestructuras y servicios en el ámbito de las tecnologías de la información y las telecomunicaciones.<br/>Su andadura profesional comenzó en 1999 en el sector TIC donde ha desempeñado funciones de dirección, gestión de proyectos e ingeniería del software.'
     image: img/ponentes/MayteOrtin
@@ -237,26 +237,26 @@ speakers:
     image: img/ponentes/AlbaPardo
     twitter_account: albapo15 
     linkedin_account: 
-  #- name: Patricia Perochena
-  #  bio: ''
-  #  image: 
-  #  twitter_account: 
-  #  linkedin_account:
+  - name: Patricia Perochena
+    bio: ''
+    image: 
+    twitter_account: 
+    linkedin_account:
   - name: Veronica Rodriguez Perez
     bio: 'Especialista en Realidad Virtual, Transmedia Storytelling y Branded Content, apasionada de las historias y sus formatos. Ha trabajado en empresas de publicidad y audiovisuales y participado en diferentes proyectos de realidad virtual. Actualmente es organizadora de la comunidad de VR / AR / MR de Madrid xR World y escribe en su blog I AM VR'
     image: img/ponentes/VeronicaRodriguez
     twitter_account: veronica_IamVR
     linkedin_account:
-  #- name: Nerea Tamayo
-  #  bio: ''
-  #  image: 
-  #  twitter_account: 
-  #  linkedin_account:
-  #- name: Sonsoles Valero
-  #  bio: ''
-  #  image: 
-  ##  twitter_account: 
-  #  linkedin_account:
+  - name: Nerea Tamayo
+    bio: ''
+    image: 
+    twitter_account: 
+    linkedin_account:
+  - name: Sonsoles Valero
+    bio: ''
+    image: 
+    twitter_account: 
+    linkedin_account:
 
 #List for sponsors
 sponsors_platinum:
@@ -432,7 +432,7 @@ talks_track_1:
     url_youtube: 
   - time: '11:30-11:55'
     track: 1
-    name: 'Gina Tost'
+    name: 'Charla sorpresa'
     descrip: ''
     speaker: 'Gina Tost'
     bio_speaker: 
