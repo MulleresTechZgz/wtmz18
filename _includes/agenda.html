@@ -18,7 +18,7 @@
     <div class="row text-center sponsor-md">
       <div class="col-lg-12">
         <div class="table-wrapper">
-            <table class="col-lg-12 table table-nonfluid">
+            <table class="col-lg-12 table">
               <tr>
                 <th class="col-lg-2"></th>
                 <th class="col-lg-5 text-center">TRACK 1 - Auditorio</th>
@@ -63,7 +63,7 @@
                       {% endif %}
                   <a href="#" data-toggle="modal" data-target="#talk-{{ forloop.index0 }}-{{ talk_track_1.track }}">
                     {{ talk_track_1.name }}
-                    <hr class="small" style="margin-top: 5px;margin-bottom: 5px;"/>
+                    <hr class="small" style="margin-top: 5px;margin-bottom: 5px;border-top: 1px solid #d2d2d2;"/>
                     <font style="font-size: 13px;">{{ talk_track_1.speaker }}</font>
                   </a>
                   <!-- Modal -->
@@ -111,7 +111,7 @@
                 <td>
                   <a href="#" data-toggle="modal" data-target="#talk-{{ forloop.index0 }}-{{ talk_track_2.track }}">
                     {{ talk_track_2.name }}
-                    <hr class="small" style="margin-top: 5px;margin-bottom: 5px;"/>
+                    <hr class="small" style="margin-top: 5px;margin-bottom: 5px;border-top: 1px solid #d2d2d2;"/>
                     <font style="font-size: 13px;">{{ talk_track_2.speaker }}</font>
                   </a>
                   <!-- Modal -->
@@ -158,20 +158,20 @@
    </div>
    {% endif %}
 
-   {% if site.workshops_track_1_ %}
+   {% if site.workshops_track_1 %}
     <div class="row text-center">
-      <div class="col-lg-10 col-lg-offset-1">
+      <div class="col-lg-12">
         <h3 class="ribbon ribbon-lg">TALLERES</h3>
       </div>
     </div>
     <div class="row text-center sponsor-md">
-      <div class="col-lg-10 col-lg-offset-1">
+      <div class="col-lg-12">
           <div class="table-wrapper">
-              <table class="col-lg-12 table table-nonfluid">
+              <table class="col-lg-12 table">
                   <tr>
                     <th class="col-lg-2"></th>
-                    <th class="col-lg-5 text-center">AULA 3</th>
                     <th class="col-lg-5 text-center">AULA 2</th>
+                    <th class="col-lg-5 text-center">BOX 3</th>
 
                   </tr>
                   {% for workshop_track_1 in site.workshops_track_1 %}
@@ -191,6 +191,8 @@
 
                       {% assign workshop_1_name = workshop_track_1.name | strip_newlines %}
                       {% assign workshop_2_name = workshop_track_2.name | strip_newlines %}
+                      {% assign workshop_1_descrip = workshop_track_1.descrip | strip_newlines %}
+                      {% assign workshop_2_descrip = workshop_track_2.descrip | strip_newlines %}
 
                       {% if workshop_1_name == "" %}
 
@@ -199,8 +201,12 @@
                       {% else %}
 
                     <td rowspan="{{ workshop_track_1.duration }}">
-                    <a href="#" data-toggle="modal" data-target="#workshop-{{ forloop.index0 }}">{{ workshop_track_1.name }}</a>
-                    <div class="modal fade" id="workshop-{{ forloop.index0 }}" role="dialog">
+                    <a href="#" data-toggle="modal" data-target="#workshop-1-{{ forloop.index0 }}">
+                      {{ workshop_track_1.name }}
+                    <hr class="small" style="margin-top: 5px;margin-bottom: 5px;border-top: 1px solid #d2d2d2;"/>
+                    <font style="font-size: 13px;">{{ workshop_track_1.speaker }}</font>
+                    </a>
+                    <div class="modal fade" id="workshop-1-{{ forloop.index0 }}" role="dialog">
                         <div class="modal-dialog">
 
                           <!-- Modal content-->
@@ -210,7 +216,11 @@
                               <h4 class="modal-title"><strong>{{ workshop_track_1.name }}</strong></h4>
                             </div>
                             <div class="modal-body">
+                              {% if workshop_1_descrip != ""  %}
                               <p>{{ workshop_track_1.descrip }}</p>
+                              {% else %}
+                              <p>Más información próximamente</p>
+                              {% endif %}
                               <hr class="small"/>
                               <p><strong>{{ workshop_track_1.speaker }}</strong></p>
                               <!--<hr class="small"/>
@@ -237,8 +247,12 @@
                         {% else %}
 
                       <td rowspan="{{ workshop_track_2.duration }}">
-                      <a href="#" data-toggle="modal" data-target="#workshop-{{ forloop.index0 }}">{{ workshop_track_2.name }}</a>
-                      <div class="modal fade" id="workshop-{{ forloop.index0 }}" role="dialog">
+                      <a href="#" data-toggle="modal" data-target="#workshop-2-{{ forloop.index0 }}">
+                        {{ workshop_track_2.name }}
+                        <hr class="small" style="margin-top: 5px;margin-bottom: 5px;border-top: 1px solid #d2d2d2;"/>
+                        <font style="font-size: 13px;">{{ workshop_track_2.speaker }}</font>
+                      </a>
+                      <div class="modal fade" id="workshop-2-{{ forloop.index0 }}" role="dialog">
                           <div class="modal-dialog">
 
                             <!-- Modal content-->
@@ -248,7 +262,11 @@
                                 <h4 class="modal-title"><strong>{{ workshop_track_2.name }}</strong></h4>
                               </div>
                               <div class="modal-body">
-                                <p>{{ workshop_track_2.descrip }}</p>
+                                {% if workshop_2_descrip != ""  %}
+                              <p>{{ workshop_track_2.descrip }}</p>
+                              {% else %}
+                              <p>Más información próximamente</p>
+                              {% endif %}
                                 <hr class="small"/>
                                 <p><strong>{{ workshop_track_2.speaker }}</strong></p>
                                 <!--<hr class="small"/>
@@ -278,4 +296,18 @@
 
 </div>
 <!-- /.container -->
+ <div class="container">
+
+    <div class="row text-center">
+      <div class="col-lg-12">
+        <p class="lead">Y además disfruta de la batalla de RobotsGlobo que organiza Academia de Inventores. <br/>¿Conseguirás explotarlos todos? <br/></p>
+      </div>
+      <div class="col-lg-6 col-lg-offset-3">
+        <img class="img-responsive" src="img/batalla_robots/batalla_robots.jpg" alt="">
+      </div>
+      <div class="col-lg-12">
+        <p><br/>Apto para todos los públicos.</p>
+      </div>
+    </div>
+  </div>
 </section>

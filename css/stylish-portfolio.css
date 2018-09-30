@@ -310,6 +310,13 @@ hr.small {
     padding: 0;
     width: 100%;
 }
+.modal-image-card {
+    background-position: center;
+    background-repeat: no-repeat; 
+    background-size: 100%;
+    background-color: #00E9B4;
+    height: 32vw !important;
+}
 
 .wtm-modal-content-left {
       display: table-cell;
@@ -334,6 +341,21 @@ hr.small {
         width: 100%;
         display: block;
         padding: 30px;
+    }
+    .modal-image-card {
+        height: 68vw !important;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 991px) {
+    .modal-image-card {
+        height: 59vw !important;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1025px) {
+    .modal-image-card {
+        height: 44vw !important;
     }
 }
 
@@ -939,4 +961,12 @@ ul i {
 
 .table-nonfluid {
    width: auto !important;
+}
+
+.escala-grises {
+    -webkit-filter: grayscale(100%);
+    -moz-filter: grayscale(100%);
+    -ms-filter: grayscale(100%);
+    -o-filter: grayscale(100%);
+    filter: grayscale(100%);
 }
