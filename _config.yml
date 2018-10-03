@@ -261,6 +261,9 @@ speakers:
     image_card: img/ponentes/fichas/SonsolesValero
     twitter_account: sonvalero
     linkedin_account:
+
+#List for workshops speakers
+workshop_speakers:
   - name: Academia de Inventores
     bio: 'Hasta llegar a ser inventor primero hay que pasar un camino de exploración, descubrimiento, investigación y creación. Academia de inventores nace en colaboración con Edelvives como un espacio donde los niños puedan desarrollar sus capacidades, descubrir nuevas tecnologías, experimentar y aprender haciendo.'
     image: img/ponentes/AcademiaDeInventores
