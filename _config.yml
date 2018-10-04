@@ -64,61 +64,71 @@ event_infos:
 organizers:
   - name: Esther Borao
     text: 
-    image:
+    image: img/organizadoras/EstherBorao
+    image_card: img/organizadoras/fichas/EstherBorao
     twitter_account: EstherBorao
     linkedin_account: 
     mail_account: esther@mullerestech.es
   - name: Miriam Durán
     text: 
-    image:
+    image: img/organizadoras/MiriamDuran
+    image_card: img/organizadoras/fichas/MiriamDuran
     twitter_account: miripi
     linkedin_account: 
     mail_account: miriam@mullerestech.es
   - name: Cynthia Gálvez
     text: 
-    image:
+    image: img/organizadoras/CynthiaGalvez
+    image_card: img/organizadoras/fichas/CynthiaGalvez
     twitter_account: icynthia
     linkedin_account: 
     mail_account: cynthia@mullerestech.es
   - name: Patricia Heredia
     text: 
-    image:
+    image: img/organizadoras/PatriciaHeredia
+    image_card: img/organizadoras/fichas/PatriciaHeredia
     twitter_account: pherediagil
     linkedin_account: 
     mail_account: patricia@mullerestech.es
   - name: Laura Lacarra
     text: 
-    image:
+    image: img/organizadoras/LauraLacarra
+    image_card: img/organizadoras/fichas/LauraLacarra
     twitter_account: LauraLacarra
     linkedin_account: 
     mail_account: laura@mullerestech.es
   - name: Cristina Pérez
     text: 
-    image: img/organizadoras/cristina_perez.jpg
+    image: img/organizadoras/CristinaPerez
+    image_card: img/organizadoras/fichas/CristinaPerez
     twitter_account: cristinapg
     linkedin_account: 
     mail_account: cristina@mullerestech.es
   - name: Jessica Redrado
     text: 
-    image: img/organizadoras/jessica_redrado.jpg
+    image: img/organizadoras/JessicaRedrado
+    image_card: img/organizadoras/fichas/JessicaRedrado
     twitter_account: Jessi_Redrado
     linkedin_account: jessica-redrado-martinez
     mail_account: jessica@mullerestech.es
   - name: Paloma Royo
     text: 
-    image:
+    image: img/organizadoras/PalomaRoyo
+    image_card: img/organizadoras/fichas/PalomaRoyo
     twitter_account: plmrc_
     linkedin_account: 
     mail_account: paloma@mullerestech.es
   - name: Ana Sánchez
     text: 
-    image: img/organizadoras/ana_sanchez.jpg
+    image: img/organizadoras/AnaSanchez
+    image_card: img/organizadoras/fichas/AnaSanchez
     twitter_account: anasanalva
     linkedin_account: anasanchezalvarez
     mail_account: ana@mullerestech.es
   - name: Nieves Sancho
     text: 
-    image:
+    image: img/organizadoras/NievesSancho
+    image_card: img/organizadoras/fichas/NievesSancho
     twitter_account: Nievesancho
     linkedin_account: 
     mail_account: nieves@mullerestech.es
@@ -131,12 +141,18 @@ guests:
     image_card: img/ponentes/fichas/PilarAlegria
     twitter_account: Pilar_Alegria
     linkedin_account: 
-  - name: Gina Tost
-    bio: 'Youtuber, precursora del vídeo online en el Internet, antes de la invención de YouTube, especializada en tecnología, videojuegos, economía mobile y startups.'
-    image: img/ponentes/GinaTost
-    image_card: img/ponentes/fichas/GinaTost
-    twitter_account: GinaTost
+  - name: Invitada sorpresa
+    bio: ''
+    image: img/ponentes/comodin
+    image_card: 
+    twitter_account: 
     linkedin_account: 
+  #- name: Gina Tost
+  #  bio: 'Youtuber, precursora del vídeo online en el Internet, antes de la invención de YouTube, especializada en tecnología, videojuegos, economía mobile y startups.'
+  #  image: img/ponentes/GinaTost
+  #  image_card: img/ponentes/fichas/GinaTost
+  #  twitter_account: GinaTost
+  #  linkedin_account: 
 
 #List for speakers
 speakers:
@@ -343,11 +359,21 @@ sponsors_platinum:
     image: img/patrocinadores/platinum/autentia.png
     web: https://www.autentia.com/
     twitter: autentia  
-  #- name: Walgreens Boots Alliance
-  #  text: 
-  #  image: img/patrocinadores/platinum/walgreens_boots_alliance.jpg
-  #  web: http://www.walgreensbootsalliance.com/
-  #  twitter: 
+  - name: Walgreens Boots Alliance
+    text: 
+    image: img/patrocinadores/platinum/walgreens_boots_alliance.jpg
+    web: http://www.walgreensbootsalliance.com/
+    twitter: 
+  - name: Zara
+    text: 
+    image: img/patrocinadores/platinum/zara.jpg
+    web: https://www.zara.com/es/
+    twitter: zaraes
+  - name: Telefonica
+    text: 
+    image: img/patrocinadores/platinum/telefonica.jpg
+    web: https://www.telefonica.com/es/home
+    twitter: telefonica
 
 sponsors_gold:
   #- name: Google
@@ -468,7 +494,7 @@ talks_track_1:
     track: 1
     name: 'Charla sorpresa'
     descrip: ''
-    speaker: 'Gina Tost'
+    speaker: 'Invitada sorpresa'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
@@ -482,7 +508,7 @@ talks_track_1:
   - time: '12:30-12:55'
     track: 1
     name: 'G2P: Enseñando a programar con 10 años'
-    descrip: ''
+    descrip: 'Hemos desarrollado una app con la que acercar la programación a muchas niñas y niños. Preparamos una campaña de marketing para llegar a unas docenas de personas y, con esto nos pasaron un montón de cosas que ni imaginábamos: a través de Twitter, nos conocieron miles de personas, nos apoyaron políticos y periodistas muy importantes en España, nos entrevistaron de un montón de medios, nos invitaron a empresas muy importantes en tecnología, … ¡nos hemos hecho famosas! Pero, lo más importante, es que hemos aprendido que podemos hacer cosas impresionantes, que podemos ayudar a mucha gente y que, podemos cambiar el mundo. Y si nosotras podemos hacerlo, ¡cualquier niña puede!'
     speaker: 'Girls To Program'
     bio_speaker: 
     twitter_speaker: 
@@ -522,7 +548,7 @@ talks_track_1:
   - time: '16:00-16:25'
     track: 1
     name: 'La era del <i>Big Data</i> en el deporte'
-    descrip: ''
+    descrip: 'En los últimos años, los datos se han convertido en parte fundamental de las actividades deportivas y el ‘big data’ ya está avanzando con fuerza para cambiar el mundo. Datos para preparar la estrategia de cada partido, toma de decisiones, prevención de lesiones...'
     speaker: 'Sandra Escudero Sánchez'
     bio_speaker: 
     twitter_speaker: 
@@ -553,7 +579,7 @@ talks_track_1:
   - time: '18:00-18:25'
     track: 1
     name: '<i>.Net Core</i> y <i>Aurelia.Js Challenge accepted</i>!'
-    descrip: ''
+    descrip: 'Los Arquitectos de Tecnología de la Información (TI) son el trabajo del presente y futuro: analizan las necesidades de TI de una compañía, recomiendan soluciones y supervisan su entrega e implementación.'
     speaker: 'Azahara Fernández Guizán'
     bio_speaker: 
     twitter_speaker: 
@@ -605,7 +631,7 @@ talks_track_2:
   - time: '10:30-10:55'
     track: 2
     name: 'Buenas prácticas en redes sociales y reputación digital'
-    descrip: ''
+    descrip: 'Charla dedicada al Análisis de la Identidad Digital y a la Gestión de la Reputación Online. Incluye prácticas orientadas a la optimización de perfiles y el buen uso de Internet'
     speaker: 'Laura López Navaz'
     bio_speaker: 
     twitter_speaker: 
@@ -613,7 +639,7 @@ talks_track_2:
   - time: '11:00-11:25'
     track: 2
     name: 'Las matemáticas que no sabías que sabías'
-    descrip: ''
+    descrip: '"Aplicaciones de la matemática teórica en el día a día. Las matemáticas tienen numerosas aplicaciones específicas y reales en nuestra vida cotidiana, permitiendo establecer un modelo de lo real. Si pensaste alguna vez que las clases de matemáticas no servían para nada, te equivocabas!'
     speaker: 'Alba Pardo Ortiz'
     bio_speaker: 
     twitter_speaker: 
@@ -673,7 +699,7 @@ talks_track_2:
     twitter_speaker: 
   - time: '16:00-16:25'
     track: 2
-    name: 'A los chatbots les gustan mayores'
+    name: 'Baby boomers y el uso de chatbots'
     descrip: ''
     speaker: 'Sonsoles Valero'
     bio_speaker: 
@@ -698,7 +724,7 @@ talks_track_2:
   - time: '17:30-17:55'
     track: 2
     name: 'El trabajo del futuro: Arquitecto IT'
-    descrip: ''
+    descrip: 'Cuando creas una solución de TI y descubres qué va a hacer y cómo, y permite que todas las diferentes aplicaciones trabajen juntas, es una buena sensación".<br/>Los Arquitectos de Tecnología de la Información (TI) son el trabajo del presente y futuro: analizan las necesidades de TI de una compañía, recomiendan soluciones y supervisan su entrega e implementación. <br/>Los IT Architects tienen una gran demanda debido a que las organizaciones:<br/>- confían cada vez más en los sistemas y redes informáticos para operar de manera efectiva, y necesitan arquitectos de TI para planificar sus sistemas<br/>- están cambiando su entorno de TI a servicios especializados que almacenan, mantienen y respaldan sus aplicaciones informáticas "en la nube"'
     speaker: 'Ibana Lardies'
     bio_speaker: 
     twitter_speaker: 
