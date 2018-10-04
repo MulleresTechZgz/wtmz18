@@ -379,6 +379,35 @@ button.close {
     margin-bottom: 30px;
 }
 
+.organizer-item a {
+    /*display: block;*/
+    text-decoration: inherit;
+}
+
+.organizer-itema:focus {
+    outline: none;
+}
+
+.organizer-item a span {
+    background: white;
+    border: 3px solid transparent;
+    border-radius: 1em;
+    transition: .2s ease-in border;
+}
+
+.organizer-item a:hover span {
+    border: 3px solid #337ab7;
+    transition: .2s ease-in border;
+}
+
+.organizer-item .modal a {
+    display: inline-block;
+}
+
+.organizer-item h4 {
+    color: #337ab7;
+}
+
 /* Sponsors */
 
 .sponsors {
@@ -730,16 +759,6 @@ ul i {
     height: 110px;
     margin: 10px auto;
     width: 110px;
-}
-
-
-/* Organizers */
-.organizer-item {
-    color: #4285f4;
-}
-
-.organizer-item .text-primary {
-    color: #fff;
 }
 
 /* Sponsors */
