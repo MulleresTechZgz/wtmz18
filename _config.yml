@@ -157,6 +157,7 @@ guests:
 #List for speakers
 speakers:
   - name: Pilar Barbero Iriarte y Laura Fernando López
+    short_name: Pilar Barbero y Laura Fernando
     bio: 'Pilar Barbero Iriarte<br/>Licenciada en matemáticas e intrusista laboral. Durante mis estudios descubrí que esto de los ordenadores era lo mío y decidí poner remedio a ello empapándome de todo lo que pudiera, a través de distintas optativas durante la carrera y mi erasmus, asistir a ponencias, largas charlas con colegas en bares... Actualmente trabajo desarrollando software en Vueling (cosicas para avioncitos). Apasionada de la cerveza y amante de las chinchillas.<br/><br/>Laura Fernando López<br/>Soy Ingeniera Informática por la Universidad de Zaragoza y desde 2017 ocupo el puesto de Analista de la Información en la Oficina de Participación, Transparencia y Gobierno Abierto en el Ayuntamiento de Zaragoza. Apasionada de las tecnologías de la información y en continuo aprendizaje. Me encanta conocer, analizar y aplicar, si es posible, las nuevas tecnologías favoreciendo la transparencia, la accesibilidad de la información y fomentando la reutilización de los datos publicando en formatos abiertos según el marco legal vigente.'
     image: img/ponentes/PilarBarberoLauraFernando
     image_card: img/ponentes/fichas/PilarBarberoLauraFernando
@@ -211,6 +212,7 @@ speakers:
     twitter_account: sudigitallawyer
     linkedin_account: susanagonzalezruisanchez
   - name: 'Andrea Gracia García y Eva Omedes Domene'
+    short_name: 'Andrea Gracia y Eva Omedes'
     bio: 'Somos Andrea Gracia García y Eva Omedes Domene, y ambas vivimos en Zaragoza.<br/>A pesar de haber estudiado diferentes cosas anteriormente, nos conocimos en el Grado de Proyectos de Obra Civil, y en la actualidad, trabajamos también juntas en atBIM, así que ya llevamos 3 años juntas.<br/>Nos gusta la edificación, las estructuras, modelar edificios y formas singulares, y siempre, con la ambición de aprender cosas nuevas y mejorar.'
     image: img/ponentes/AndreaGraciaEvaOmedes
     image_card: img/ponentes/fichas/AndreaGraciaEvaOmedes
@@ -287,6 +289,7 @@ workshop_speakers:
     twitter_account: ainventores
     linkedin_account: 
   - name: Vanessa Cazzola, Begoña Cuello y Elena Montañes
+    short_name: Vanessa C., Begoña C. y Elena M.
     bio: 'Vanessa Cazzola<br/>Me llamo Vanessa y soy traductora freelance. Traduzco del español al italiano y del inglés al italiano y estoy especializada en moda, turismo, marketing y sistemas ERP. Además de traductora, a lo largo de mi carrera profesional me he ocupado también de comercio exterior y de atención al cliente, y he trabajado en tres países distintos: España, Italia e Inglaterra.<br/><br/>Begoña Cuello<br/>Informática de profesión y con 9 años de experiencia en el desarrollo de software en las tecnologías de Microsoft, especializada en los entornos web. Suelo mantenerme al día en las tecnologías, siempre y cuando el tiempo y el trabajo me lo permite. Recientemente adherida al negocio de la banca y los seguros.<br/><br/>Elena Montañés<br/>Extrovertida y perfeccionista, en definitiva, soy una mente inquieta. Todo eso me ha llevado a trabajar en diferentes empresas punteras de Aragón. Con más de 10 años de experiencia en el sector, sigo siendo una apasionada del mundo digital y la tecnología en general. En la actualidad, sigo desarrollándome profesionalmente al frente de proyectos en Flat101 como Digital Project Manager.'
     image: img/ponentes/VanessaCazzolaBegoñaCuelloElenaMontanes
     image_card: img/ponentes/fichas/VanessaCazzolaBegoñaCuelloElenaMontanes
@@ -477,7 +480,7 @@ talks_track_1:
   - time: '10:30-10:55'
     track: 1
     name: 'Lo que nos hace humanos'
-    descrip: ''
+    descrip: 'Con los avances en inteligencia artificial y robótica muchos se preguntan ¿nos van a sustituir las máquinas? En 20 minutos hablaré de las dos habilidades más complejas de replicar en cualquier sistema autónomo: la inferencia de conocimiento y la creatividad. Será una charla divulgativa sobre el estado del arte de la IA y la robótica a través del dilema de construir los sistemas autónomos para parecerse (o no) a los humanos.'
     speaker: 'Nerea Luis Mingueza'
     bio_speaker: 
     twitter_speaker: 
@@ -485,7 +488,7 @@ talks_track_1:
   - time: '11:00-11:25'
     track: 1
     name: 'Gestión TI en el Gobierno de Aragón: ¿y si te llaman 55.000 usuarios?'
-    descrip: 'Aragonesa de Servicios Telemáticos, AST, es la entidad pública del Gobierno de Aragón responsable de las tecnologías de la información y las telecomunicaciones.<br/>AST gestiona las infraestructuras, sistemas, aplicaciones y servicios TI de la administración autonómica aragonesa siendo una referencia por su volumetría y criticidad.<br/>En esta charla podrás conocer qué es ITSM, cómo gestiona AST sus servicios TI, cuáles son sus mejores prácticas, cómo es un día normal y cómo se gestiona una crisis que puede afectar a miles de usuarios.'
+    descrip: 'Aragonesa de Servicios Telemáticos, AST, es la entidad pública del Gobierno de Aragón responsable de las tecnologías de la información y las telecomunicaciones. <br/>AST gestiona las infraestructuras, sistemas, aplicaciones y servicios TI de la administración autonómica aragonesa siendo una referencia por su volumetría y criticidad.<br/>En esta charla podrás conocer qué es ITSM, cómo gestiona AST sus servicios TI, cuáles son sus mejores prácticas, cómo es un día normal y cómo se gestiona una crisis que puede afectar a miles de usuarios.'
     speaker: 'Mayte Ortín'
     bio_speaker: 
     twitter_speaker: 
@@ -572,14 +575,14 @@ talks_track_1:
   - time: '17:30-17:55'
     track: 1
     name: 'Paciente 6.000.001 del síndrome del impostor'
-    descrip: '"He sacado buena nota por suerte", "no tengo nada de que hablar en un evento", "no voy a echar a este puesto de trabajo porque no me van a coger", "me van a echar de mi trabajo porque no soy buena".  ¿Os suenas estas frases? ¡Si solo se quedara en estas frases! Seguido de estas frases van problemas de autoestima, ansiedad o depresión. El síndrome del impostor es una patología que lo sufren muchas personas que ni si quiera lo saben y deriva en una serie de problemas que nos entorpece nuestra salud, nuestra progresión laboral y nuestra vida. El estudio de este síndrome me ha sorprendido, desde cómo detectaron el síndrome, desde sus descubridoras, de por qué viene y los problemas que acarrea. Me gustaría contaros la historia que hay detrás y cómo dar cara a nuestro peor enemigo: el síndrome del impostor.'
+    descrip: '"He sacado buena nota por suerte", "no tengo nada de que hablar en un evento", "no voy a echar a este puesto de trabajo porque no me van a coger", "me van a echar de mi trabajo porque no soy buena".  ¿Os suenas estas frases? ¡Si solo se quedara en estas frases! Seguido de estas frases van problemas de autoestima, ansiedad o depresión. El síndrome del impostor es una patología que lo sufren muchas personas que ni si quiera lo saben y deriva en una serie de problemas que nos entorpece nuestra salud, nuestra progresión laboral y nuestra vida. El estudio de este síndrome me ha sorprendido, desde cómo detectaron el síndrome, desde sus descubridoras, de por qué viene y los problemas que acarrea. Me gustaría contaros la historia que hay detrás y cómo dar cara a nuestro peor enemigo: el síndrome del impostor.'
     speaker: 'Laura Lacarra'
     bio_speaker: ''
     twitter_speaker: 
   - time: '18:00-18:25'
     track: 1
     name: '<i>.Net Core</i> y <i>Aurelia.Js Challenge accepted</i>!'
-    descrip: 'Los Arquitectos de Tecnología de la Información (TI) son el trabajo del presente y futuro: analizan las necesidades de TI de una compañía, recomiendan soluciones y supervisan su entrega e implementación.'
+    descrip: 'En esta charla trataré de resumir cómo afronte un reto personal que me propuse este verano: descubrir que ventajas aportaba .Net Core y ver si realmente Aurelia.Js podía ser una alternativa a otros frameworks front. Contaré como lo planteé y lo estructuré, que recursos utilicé, dónde buscar información si os interesa y también que problemas tuve en el proceso. Porque las cosas no suelen salir bien a la primera! Y además detallaré que aporta .Net Core y que ventajas tiene Aurelia.Js'
     speaker: 'Azahara Fernández Guizán'
     bio_speaker: 
     twitter_speaker: 
@@ -587,7 +590,7 @@ talks_track_1:
   - time: '18:30-18:55'
     track: 1
     name: 'Retrospectivas, unas veces van en bici, otras veces huelen bien'
-    descrip: ''
+    descrip: 'Mejorar, experimentar, aprender de los errores, y de los éxitos. ¿Quién no querría? Los equipos que trabajan en un proyecto, sea de desarrollo o no, deben buscar la mejora continua no sólo en sus habilidades técnicas, también en sus procesos, formas de comunicación, auto-organización, y cualquier cosa que les haga ser mejores juntos.<br/>Un equipo puede hacer una Retrospectiva sin necesidad de un Scrum Master o facilitador especializado. Dedicar un tiempo periódicamente a esto es independiente de Agile, Scrum, Lean u otras palabras tan de moda últimamente. Contaré algunos trucos y guías para tener Retrospectivas productivas'
     speaker: 'María Berenguer'
     bio_speaker: 
     twitter_speaker: 
@@ -631,7 +634,7 @@ talks_track_2:
   - time: '10:30-10:55'
     track: 2
     name: 'Buenas prácticas en redes sociales y reputación digital'
-    descrip: 'Charla dedicada al Análisis de la Identidad Digital y a la Gestión de la Reputación Online. Incluye prácticas orientadas a la optimización de perfiles y el buen uso de Internet'
+    descrip: 'Charla dedicada al Análisis de la Identidad Digital y a la Gestión de la Reputación Online. Incluye prácticas orientadas a la optimización de perfiles y el buen uso de Internet.'
     speaker: 'Laura López Navaz'
     bio_speaker: 
     twitter_speaker: 
@@ -639,7 +642,7 @@ talks_track_2:
   - time: '11:00-11:25'
     track: 2
     name: 'Las matemáticas que no sabías que sabías'
-    descrip: '"Aplicaciones de la matemática teórica en el día a día. Las matemáticas tienen numerosas aplicaciones específicas y reales en nuestra vida cotidiana, permitiendo establecer un modelo de lo real. Si pensaste alguna vez que las clases de matemáticas no servían para nada, te equivocabas!'
+    descrip: 'Aplicaciones de la matemática teórica en el día a día. Las matemáticas tienen numerosas aplicaciones específicas y reales en nuestra vida cotidiana, permitiendo establecer un modelo de lo real. Si pensaste alguna vez que las clases de matemáticas no servían para nada, te equivocabas!'
     speaker: 'Alba Pardo Ortiz'
     bio_speaker: 
     twitter_speaker: 
@@ -647,7 +650,7 @@ talks_track_2:
   - time: '11:30-11:55'
     track: 2
     name: 'Digitalización del sector de la construcción, arquitectura e ingeniería'
-    descrip: ''
+    descrip: 'En esta charla pretendemos explicar como el uso de softwares en conjunto con la metodología BIM han revolucionado el sector de la construcción, arquitectura e ingeniería.<br/>Pretendemos explicar para todo el público como usar herramientas digitales para modelar, maquetar y analizar información.'
     speaker: 'Andrea Gracia García y Eva Omedes Domene'
     bio_speaker: 
     twitter_speaker: 
@@ -700,7 +703,7 @@ talks_track_2:
   - time: '16:00-16:25'
     track: 2
     name: 'Baby boomers y el uso de chatbots'
-    descrip: ''
+    descrip: 'Un chatbot o asistente conversacional no es más que un software que es capaz de mantener un diálogo mediante lenguaje natural imitando una conversación humana. <br/No olvidemos que un chatbot puede ser por texto o voz y según algunos estudios en 2020, los chatbots se convertirán en la principal fuente de obtención de información sobre los consumidores y operarán en más del 85% de los centros de atención al cliente. Y es más, los Baby Boomers son un 24% más receptivos que los Millennials y verían un mayor beneficio de los chatbots en la mitad de los casos estudiados. No hay que olvidar que la mitad de los mayores de 64 a 72 años (baby boomers) usa el móvil en su vida cotidiana pero se pierden navegando por Internet. <br/>El impacto social de los asistentes conversacionales para derribar la brecha digital puede convertirse en uno de los mayores hitos que la tecnología puede alcanzar en las próximas décadas. Las llamadas #seniortech pueden suponer un cambio fundamental en el desarrollo de la calidad de vida de las personas mayores y los chatbots, como tecnología accesible y sencilla, pueden abanderar este cambio.<br/>Son múltiples los casos de uso de esta tecnología: en el sector salud, por ejemplo, con asistentes virtuales que respondan a dudas básicas y sencillas de forma más controlada y precisa que el Doctor Google o permitan hacer un seguimiento de tratamientos, incluso solicitar citas con su médico habitual; en el sector turismo, creando experiencias personalizadas a través de un interfaz sencillo; en el sector ecommerce, donde los usuarios son reticentes al uso de apps de marcas; en el sector de los medios de comunicación con divulgación de contenidos mediante suscripción;…. donde la imaginación nos lleve. Sólo hay que pensar en que estamos ante una tecnología que todo el mundo ya sabe manejar, sin ruido que dificulte la comunicación y que, bien desarrollada y con ayuda de inteligencia artificial, puede ayudar a una parte de nuestra población a disfrutar de las ventajas de estar hiperconectados.'
     speaker: 'Sonsoles Valero'
     bio_speaker: 
     twitter_speaker: 
@@ -708,7 +711,7 @@ talks_track_2:
   - time: '16:30-16:55'
     track: 2
     name: '¿Por qué mi abuela sabe usar WhatsApp y no la aplicación del banco?'
-    descrip: ''
+    descrip: 'Al crear cualquier producto digital tenemos que entender a nuestros usuarios y conectar con sus emociones. En esta charla explicaré cómo funcionan las emociones desde un punto de vista neurologico y cómo podemos tomar ventaja de todo ese conocimiento para crear mejores productos.'
     speaker: 'María Fernández Rodríguez'
     bio_speaker: 
     twitter_speaker: 
@@ -724,14 +727,14 @@ talks_track_2:
   - time: '17:30-17:55'
     track: 2
     name: 'El trabajo del futuro: Arquitecto IT'
-    descrip: 'Cuando creas una solución de TI y descubres qué va a hacer y cómo, y permite que todas las diferentes aplicaciones trabajen juntas, es una buena sensación".<br/>Los Arquitectos de Tecnología de la Información (TI) son el trabajo del presente y futuro: analizan las necesidades de TI de una compañía, recomiendan soluciones y supervisan su entrega e implementación. <br/>Los IT Architects tienen una gran demanda debido a que las organizaciones:<br/>- confían cada vez más en los sistemas y redes informáticos para operar de manera efectiva, y necesitan arquitectos de TI para planificar sus sistemas<br/>- están cambiando su entorno de TI a servicios especializados que almacenan, mantienen y respaldan sus aplicaciones informáticas "en la nube"'
+    descrip: 'Cuando creas una solución de TI y descubres qué va a hacer y cómo, y permite que todas las diferentes aplicaciones trabajen juntas, es una buena sensación.<br/>Los Arquitectos de Tecnología de la Información (TI) son el trabajo del presente y futuro: analizan las necesidades de TI de una compañía, recomiendan soluciones y supervisan su entrega e implementación. <br/>Los IT Architects tienen una gran demanda debido a que las organizaciones:<br/>- confían cada vez más en los sistemas y redes informáticos para operar de manera efectiva, y necesitan arquitectos de TI para planificar sus sistemas<br/>- están cambiando su entorno de TI a servicios especializados que almacenan, mantienen y respaldan sus aplicaciones informáticas en "la nube"'
     speaker: 'Ibana Lardies'
     bio_speaker: 
     twitter_speaker: 
   - time: '18:00-18:25'
     track: 2
     name: 'Experiencias realizando mi primer videojuego'
-    descrip: ''
+    descrip: 'Hace ya algún tiempo que me apetecía empezar un proyecto nuevo, y por fin he sacado el tiempo: aprender a hacer un pequeño videojuego y adentrarme en este mundo, del cual formo parte desde bien pequeña pero como jugadora, no como desarrolladora.<br/>En esta charla explicaré mis experiencias y pasos realizados para empezar a desarrollar mi primer videojuego con la plataforma Unity. Se plantearán los retos a afrontar y conceptos básicos a tener en cuenta para que toda persona que quiera empezar un proyecto así, se anime a hacerlo. Y si da tiempo, incluso podremos ver el resultado. '
     speaker: 'Vanessa Galcerà Reales'
     bio_speaker: 
     twitter_speaker: 
@@ -739,7 +742,7 @@ talks_track_2:
   - time: '18:30-18:55'
     track: 2
     name: '¿Qué sabe Google de mí?'
-    descrip: ''
+    descrip: 'Análisis de las vulnerabilidades a las que estamos expuestos como usuarios de redes sociales e internet en general.'
     speaker: 'Pilar Barbero Iriarte y Laura Fernando López'
     bio_speaker: 
     twitter_speaker: 
