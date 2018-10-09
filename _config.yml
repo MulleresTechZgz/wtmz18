@@ -141,12 +141,12 @@ guests:
     image_card: img/ponentes/fichas/PilarAlegria
     twitter_account: Pilar_Alegria
     linkedin_account: 
-  - name: Invitada sorpresa
-    bio: ''
-    image: img/ponentes/comodin
-    image_card: 
-    twitter_account: 
-    linkedin_account: 
+  - name: Cristina Aranda
+    bio: 'Cristina Aranda es PR, Pre-Sales & Innovation Research en Intelygenz, empresa dedicada al desarrollo de Software y tecnologías con impacto en negocio con sedes en Madrid y San Francisco. Cristina tiene más de 16 años de experiencia en marketing, innovación y transformación digital con empresas del Ibex35, Top500, Pymes y Startups. Además, es cofundadora de Mujeres Tech, una asociación sin ánimo de lucro que tiene por objetivo promover iniciativas entre niñas, jóvenes y mujeres y hombres para aumentar la presencia femenina en el sector digital, y, al mismo tiempo, establecer lazos con hombres dispuestos a generar las mismas posibilidades al talento femenino.<br/>Aranda es Social Innovation Fellow del Meridian Intl. Center y la Embajada de EE.UU. en Madrid, miembro del comité de Mujeres Líderes de América y del Comité de Expertos de Empresas de Base Tecnológica, Startups y Talento de la Comunidad de Madrid. Además, Cristina es asesora sobre Diversidad en las STEAM de diferentes stakeholders públicos y privados. Pertenece a la mesa de género de la Secretaría de Estado de Agenda Digital. El pasado mes de abril impartió una charla TEDx sobre la necesidad de desaprender sobre cómo somos educados a partir de estereotipos y el pasado mes de febrero fue considerada por Business Insider como una de las 25 españoles del mundo de la tecnología que se deben seguir en Twitter.<br/>Cristina es doctora en Lingüística Teórica y Aplicada por la UAM y el IUI. Ortega y Gasset, licenciada en Filología Hispánica por la UAM, Máster en Internet Business por el ISDI y Digital Technology for Business Program por IGZ Academy. Ahora está profundizando en el procesamiento natural del lenguaje para su aplicación en el Internet de las cosas y la inteligencia artificial.'
+    image: img/ponentes/CristinaAranda
+    image_card: img/ponentes/fichas/CristinaAranda
+    twitter_account: cris_aranda_
+    linkedin_account: cristinaaranda
   #- name: Gina Tost
   #  bio: 'Youtuber, precursora del vídeo online en el Internet, antes de la invención de YouTube, especializada en tecnología, videojuegos, economía mobile y startups.'
   #  image: img/ponentes/GinaTost
@@ -199,6 +199,12 @@ speakers:
     image_card: img/ponentes/fichas/VanessaGalcera
     twitter_account: VanessaGaRe
     linkedin_account:
+  #- name: Cynthia Gálvez López
+  #  bio: ''
+  #  image: img/ponentes/CynthiaGalvez
+  #  image_card: img/ponentes/fichas/CynthiaGalvez
+  #  twitter_account: icynthia
+  #  linkedin_account: 
   - name: Girls to Program (G2P)
     bio: 'Girls to Program (G2P) es el nombre de una aplicación que hemos desarrollado un grupo de niñas de 10 años de Huesca, somos: Alejandra Bagé, Paula Sanclemente, Sara Miravé y Valeria Corrales. Nos encanta el deporte, el inglés y la tecnología, tanto es así que este año participamos en un concurso internacional, Technovation Challenge, y desarrollamos una app para ayudar a niñas en entornos rurales a encontrar recursos para aprender tecnología.'
     image: img/ponentes/Girls2Program
@@ -225,12 +231,12 @@ speakers:
     image_card: img/ponentes/fichas/LauraLacarra
     twitter_account: LauraLacarra 
     linkedin_account:
-  - name: Ibana Lardies Muñoz
-    bio: 'Mi nombre es Ibana Lardies.<br/>Soy Ingeniera de Telecomunicaciones.<br/>Tengo 20 años de experiencia en la Industria de IT.<br/>Trabajé en un grupo bancario diseñando e implementando redes de Comunicaciones.<br/>A continuación me incorporé a IBM Spain, donde he realizado proyectos, he sido Leader en Compliance&Service Assurance en Network y actualmente soy Arquitecta de IT, diseñando soluciones para clientes.'
-    image: img/ponentes/IbanaLardies
-    image_card: img/ponentes/fichas/IbanaLardies
-    twitter_account: 
-    linkedin_account: ibana-lardies-muñoz
+  #- name: Ibana Lardies Muñoz
+  #  bio: 'Mi nombre es Ibana Lardies.<br/>Soy Ingeniera de Telecomunicaciones.<br/>Tengo 20 años de experiencia en la Industria de IT.<br/>Trabajé en un grupo bancario diseñando e implementando redes de Comunicaciones.<br/>A continuación me incorporé a IBM Spain, donde he realizado proyectos, he sido Leader en Compliance&Service Assurance en Network y actualmente soy Arquitecta de IT, diseñando soluciones para clientes.'
+  #  image: img/ponentes/IbanaLardies
+  #  image_card: img/ponentes/fichas/IbanaLardies
+  #  twitter_account: 
+  #  linkedin_account: ibana-lardies-muñoz
   - name: Keka Lopez
     bio: 'Realizadora aragonesa y activista por la soberanía tecnológica.<br/>Trabaja con diversos colectivos de artistas interdisciplinares mezclando técnicas de video,sonido y fotografiá desde el mediactivismo y la televisión experimental utilizando herramientas de software libre y licencias creative commons. <br/> Dirige mydogisa.ninja donde ha producido contenidos para organizaciones internacionaels desde campañas de protección del medio ambiente a la defensa de llos derechos humanos en Suiza, Alemania,Mexico y Reino Unido. <br/>Ha realizado dos documentales Con el Corazon en la Calle y La Hipocresía del deseo que recibió varias menciones internacionales. <br/>Su primer largo documental se encuentra en fase de grabación El Derecho a Soñar una fábula social protagonizada por hackers y comunidades indígenas sobre la primera red de telefonía celular independiente del mundo. Donde sus protagonistas hablan de la necesidad de desdibujar los horizontes , imaginar imposibles, de las posibilidades de la tecnología ,la colaboración , la gestión comunitaria y del conocimiento abierto. <br/>Este documental está siendo grabado con cámaras de video hackeadas, ampliando las posibilidades que su hardware les posibilita.'
     image: img/ponentes/KekaLopez
@@ -288,11 +294,11 @@ workshop_speakers:
     image_card: img/ponentes/fichas/AcademiaDeInventores
     twitter_account: ainventores
     linkedin_account: 
-  - name: Vanessa Cazzola, Begoña Cuello y Elena Montañes
-    short_name: Vanessa C., Begoña C. y Elena M.
+  - name: Alexandra Carramiñana, Vanessa Cazzola, Begoña Cuello y Elena Montañés
+    short_name: Alexandra C., Vanessa C., Begoña C. y Elena M.
     bio: 'Vanessa Cazzola<br/>Me llamo Vanessa y soy traductora freelance. Traduzco del español al italiano y del inglés al italiano y estoy especializada en moda, turismo, marketing y sistemas ERP. Además de traductora, a lo largo de mi carrera profesional me he ocupado también de comercio exterior y de atención al cliente, y he trabajado en tres países distintos: España, Italia e Inglaterra.<br/><br/>Begoña Cuello<br/>Informática de profesión y con 9 años de experiencia en el desarrollo de software en las tecnologías de Microsoft, especializada en los entornos web. Suelo mantenerme al día en las tecnologías, siempre y cuando el tiempo y el trabajo me lo permite. Recientemente adherida al negocio de la banca y los seguros.<br/><br/>Elena Montañés<br/>Extrovertida y perfeccionista, en definitiva, soy una mente inquieta. Todo eso me ha llevado a trabajar en diferentes empresas punteras de Aragón. Con más de 10 años de experiencia en el sector, sigo siendo una apasionada del mundo digital y la tecnología en general. En la actualidad, sigo desarrollándome profesionalmente al frente de proyectos en Flat101 como Digital Project Manager.'
-    image: img/ponentes/VanessaCazzolaBegoñaCuelloElenaMontanes
-    image_card: img/ponentes/fichas/VanessaCazzolaBegoñaCuelloElenaMontanes
+    image: img/ponentes/AlexandraCarraminanaVanessaCazzolaBegoñaCuelloElenaMontanes
+    image_card: img/ponentes/fichas/AlexandraCarraminanaVanessaCazzolaBegoñaCuelloElenaMontanes
     twitter_account: 
     linkedin_account:
   - name: África Sanjuán Duarte
@@ -314,6 +320,16 @@ mentors:
     image: img/ponentes/DianaRuiz
     twitter_account: 
     linkedin_account:
+  - name: Irene Luzán Gallego
+    bio: 'Irene Luzán (1986, Huesca)<br/>CEO - SHU DIGITAL y Técnico de escáner 3d<br/>Desde pequeña, en contacto directo con el mundo de la escenografía y tematización en la empresa familiar Tecmolde. Hace 15 años, Tecmolde apuesta por la tecnología 3d para desarrollar sus proyectos. Es aquí cuando surge la especialización en escáner 3d. Después de varios años de formación 3d compaginados con el trabajo de tematización en taller, surge la oportunidad de formar Shu Digital y sacar partido a todas las posibilidades que tiene el mundo 3d.'
+    image: img/ponentes/IreneLuzan
+    twitter_account: 
+    linkedin_account: shu-digital-2a0835101
+  - name: Laura Duato Ballesteros
+    bio: 'He estado trabajando con aplicaciones iOS desde que hice mi proyecto final de carrera en 2011 en la universidad.<br/>En el año 2015 participé en el WTM de Granada, donde hablamos acerca de la innovación, el papel de la mujer en el mundo tecnológico y sobre nuestra implicación en los procesos de innovación. Además, impartimos un taller de “design thinking”. <br/>Soy una persona activa y me gusta estar en continuo aprendizaje, por ello hace casi un año, tuve la suerte de poder unir mis dos pasiones, el deporte y la tecnología, y así poder seguir trabajando en el mundo de las aplicaciones en adidas.'
+    image: img/ponentes/LauraDuato
+    twitter_account: 
+    linkedin_account: laura-duato-ballesteros
 
 #List for sponsors
 sponsors_platinum:
@@ -495,9 +511,9 @@ talks_track_1:
     url_youtube: 
   - time: '11:30-11:55'
     track: 1
-    name: 'Charla sorpresa'
-    descrip: ''
-    speaker: 'Invitada sorpresa'
+    name: '¡¡Tú tienes el PAGÜER!!'
+    descrip: 'En esta charla Cristina nos hablará de los diferentes niveles del lenguaje y de cómo intervienen en la persuasión. Lo hará con ejemplos y con ejercicios que puedes comenzar a usar para sacar el máximo partido a tu día a día.'
+    speaker: 'Cristina Aranda'
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
@@ -724,13 +740,27 @@ talks_track_2:
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
+  #- time: '17:30-17:55'
+  #  track: 2
+  #  name: 'El trabajo del futuro: Arquitecto IT'
+  #  descrip: 'Cuando creas una solución de TI y descubres qué va a hacer y cómo, y permite que todas las diferentes aplicaciones trabajen juntas, es una buena sensación.<br/>Los Arquitectos de Tecnología de la Información (TI) son el trabajo del presente y futuro: analizan las necesidades de TI de una compañía, recomiendan soluciones y supervisan su entrega e implementación. <br/>Los IT Architects tienen una gran demanda debido a que las organizaciones:<br/>- confían cada vez más en los sistemas y redes informáticos para operar de manera efectiva, y necesitan arquitectos de TI para planificar sus sistemas<br/>- están cambiando su entorno de TI a servicios especializados que almacenan, mantienen y respaldan sus aplicaciones informáticas en "la nube"'
+  #  speaker: 'Ibana Lardies'
+  #  bio_speaker: 
+  #  twitter_speaker: 
   - time: '17:30-17:55'
     track: 2
-    name: 'El trabajo del futuro: Arquitecto IT'
-    descrip: 'Cuando creas una solución de TI y descubres qué va a hacer y cómo, y permite que todas las diferentes aplicaciones trabajen juntas, es una buena sensación.<br/>Los Arquitectos de Tecnología de la Información (TI) son el trabajo del presente y futuro: analizan las necesidades de TI de una compañía, recomiendan soluciones y supervisan su entrega e implementación. <br/>Los IT Architects tienen una gran demanda debido a que las organizaciones:<br/>- confían cada vez más en los sistemas y redes informáticos para operar de manera efectiva, y necesitan arquitectos de TI para planificar sus sistemas<br/>- están cambiando su entorno de TI a servicios especializados que almacenan, mantienen y respaldan sus aplicaciones informáticas en "la nube"'
-    speaker: 'Ibana Lardies'
+    name: 'Charla sorpresa'
+    descrip: ''
+    speaker: 'Ponente sorpresa'
     bio_speaker: 
     twitter_speaker: 
+  #- time: '17:30-17:55'
+  #  track: 2
+  ##  name: '¿Qué sabe Google de mí?'
+  #  descrip: 'Análisis de las vulnerabilidades a las que estamos expuestos como usuarios de redes sociales e internet en general.'
+  #  speaker: 'Pilar Barbero Iriarte y Laura Fernando López'
+  #  bio_speaker: 
+  #  twitter_speaker:
   - time: '18:00-18:25'
     track: 2
     name: 'Experiencias realizando mi primer videojuego'
@@ -738,14 +768,21 @@ talks_track_2:
     speaker: 'Vanessa Galcerà Reales'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: 
+    url_youtube:  
   - time: '18:30-18:55'
     track: 2
     name: '¿Qué sabe Google de mí?'
     descrip: 'Análisis de las vulnerabilidades a las que estamos expuestos como usuarios de redes sociales e internet en general.'
     speaker: 'Pilar Barbero Iriarte y Laura Fernando López'
     bio_speaker: 
-    twitter_speaker: 
+  #  twitter_speaker:
+  #- time: '18:30-18:55'
+  #  track: 2
+  #  name: 'AR: desde la tecnología a la calidad de contenidos'
+  #  descrip: 'Cada día aparecen más dispositivos hardware y plataformas software para crear proyectos de realidad aumentada, virtual y mixta. Estamos experimentando un cambio espectacular en la industria entonces, es un buen momento para desarrollar con esta tecnología, ¿no?<br/>Esta conferencia explora diferentes plataformas y herramientas para crear aplicaciones de realidad aumentada. Además quiere concienciar de la importancia de realizarlo desde un punto de vista de experiencia de usuario, poniendo como foco a las personas, y en la importancia de los contenidos.'
+  #  speaker: 'Cynthia Gálvez López'
+  #  bio_speaker: 
+  #  twitter_speaker:   
   - time: '19:00-19:45'
     track: all
     name: 'CIERRE'
@@ -792,7 +829,7 @@ workshops_track_1:
     track: workshop
     name: 'Taller Iniciación a la Programación'
     descrip: 'Duracion: 1h 30m<br/>Plazas disponibles: 14 <br/>Entre 5 y 12 años <br/><br/>'
-    speaker: 'Vanessa Cazzola, Begoña Cuello y Elena Montañes'
+    speaker: 'Alexandra Carramiñana, Vanessa Cazzola, Begoña Cuello y Elena Montañés'
     duration: 1
     bio_speaker: 
     twitter_speaker: 
