@@ -199,12 +199,12 @@ speakers:
     image_card: img/ponentes/fichas/VanessaGalcera
     twitter_account: VanessaGaRe
     linkedin_account:
-  #- name: Cynthia Gálvez López
-  #  bio: ''
-  #  image: img/ponentes/CynthiaGalvez
-  #  image_card: img/ponentes/fichas/CynthiaGalvez
-  #  twitter_account: icynthia
-  #  linkedin_account: 
+  - name: Cynthia Gálvez López
+    bio: ''
+    image: img/ponentes/CynthiaGalvez
+    image_card: img/ponentes/fichas/CynthiaGalvez
+    twitter_account: icynthia
+    linkedin_account: 
   - name: Girls to Program (G2P)
     bio: 'Girls to Program (G2P) es el nombre de una aplicación que hemos desarrollado un grupo de niñas de 10 años de Huesca, somos: Alejandra Bagé, Paula Sanclemente, Sara Miravé y Valeria Corrales. Nos encanta el deporte, el inglés y la tecnología, tanto es así que este año participamos en un concurso internacional, Technovation Challenge, y desarrollamos una app para ayudar a niñas en entornos rurales a encontrar recursos para aprender tecnología.'
     image: img/ponentes/Girls2Program
