@@ -917,6 +917,7 @@ ul i {
     background: rgb(190, 213, 252) !important;
     color: #4385f4 !important;
     cursor: default !important;
+    text-align: center !important;
 }
 
 .agenda-v2 table tr td:first-child {
