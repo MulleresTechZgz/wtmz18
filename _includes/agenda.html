@@ -29,11 +29,29 @@
               {% assign talk_track_2 = site.talks_track_2[forloop.index0] %}
 
               <tr>
+                {% if talk_track_1.name == 'PRESENTACIÓN Staff WTM Zaragoza' %}
+                <td rowspan="2">{{ talk_track_1.time }}</td>
+                {% elsif talk_track_1.name == 'CIERRE Staff WTM Zaragoza' %}
+                <td rowspan="2">{{ talk_track_1.time }}</td>
+                {% else %}
                 <td>{{ talk_track_1.time }}</td>
+                {% endif %}
 
                 {% if talk_track_1.track == 'all' %}
-
-                <td class="small" colspan="2">{{ talk_track_1.name }}</td>
+                  {% if talk_track_1.name == 'PRESENTACIÓN Staff WTM Zaragoza' %}
+                  <td class="small" colspan="2">{{ talk_track_1.name }}</td>
+                  </tr>
+                  <tr>
+                  <td class="small" colspan="2">{{ talk_track_1.second_name }}</td>
+                  {% elsif talk_track_1.name == 'CIERRE Staff WTM Zaragoza' %}
+                  <td class="small" colspan="2">{{ talk_track_1.second_name }}</td>
+                  </tr>
+                  <tr>
+                  <td class="small" colspan="2">{{ talk_track_1.name }}</td>
+                  {% else %}
+                  <td class="small" colspan="2">{{ talk_track_1.name }}</td>
+                  {% endif %}
+                  
 
 
                 {% else %}

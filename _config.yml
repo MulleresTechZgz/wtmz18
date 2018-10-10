@@ -306,6 +306,12 @@ workshop_speakers:
     image: img/ponentes/AfricaSanjuan
     image_card: img/ponentes/fichas/AfricaSanjuan
     twitter_account: crearium
+    linkedin_account:       
+  - name: Anita de Arbués
+    bio: ''
+    image: img/ponentes/comodinw
+    image_card: img/ponentes/fichas/AnitaDeArbues
+    twitter_account: 
     linkedin_account: 
 
 #List for mentors
@@ -488,7 +494,8 @@ talks_track_1:
     twitter_speaker: 
   - time: '09:45-10:30'
     track: all
-    name: 'PRESENTACIÓN (Track 1)'
+    name: 'PRESENTACIÓN Staff WTM Zaragoza'
+    second_name: 'Inauguración: Pilar Alegría, Consejera de Innovación, Investigación y Universidad'
     descrip: 
     speaker: 
     bio_speaker: 
@@ -612,7 +619,8 @@ talks_track_1:
     twitter_speaker: 
   - time: '19:00-19:45'
     track: all
-    name: 'CIERRE: Staff WTM Zaragoza (Track 1)'
+    name: 'CIERRE Staff WTM Zaragoza'
+    second_name: 'Clausura: Elena Giner, Consejera de Participación, Transparencia y Gobierno Abierto'
     descrip: 
     speaker: 
     bio_speaker: 
@@ -749,18 +757,11 @@ talks_track_2:
   #  twitter_speaker: 
   - time: '17:30-17:55'
     track: 2
-    name: 'Charla sorpresa'
-    descrip: ''
-    speaker: 'Ponente sorpresa'
+    name: '¿Qué sabe Google de mí?'
+    descrip: 'Análisis de las vulnerabilidades a las que estamos expuestos como usuarios de redes sociales e internet en general.'
+    speaker: 'Pilar Barbero Iriarte y Laura Fernando López'
     bio_speaker: 
-    twitter_speaker: 
-  #- time: '17:30-17:55'
-  #  track: 2
-  ##  name: '¿Qué sabe Google de mí?'
-  #  descrip: 'Análisis de las vulnerabilidades a las que estamos expuestos como usuarios de redes sociales e internet en general.'
-  #  speaker: 'Pilar Barbero Iriarte y Laura Fernando López'
-  #  bio_speaker: 
-  #  twitter_speaker:
+    twitter_speaker:
   - time: '18:00-18:25'
     track: 2
     name: 'Experiencias realizando mi primer videojuego'
@@ -769,20 +770,20 @@ talks_track_2:
     bio_speaker: 
     twitter_speaker: 
     url_youtube:  
-  - time: '18:30-18:55'
-    track: 2
-    name: '¿Qué sabe Google de mí?'
-    descrip: 'Análisis de las vulnerabilidades a las que estamos expuestos como usuarios de redes sociales e internet en general.'
-    speaker: 'Pilar Barbero Iriarte y Laura Fernando López'
-    bio_speaker: 
-  #  twitter_speaker:
   #- time: '18:30-18:55'
   #  track: 2
-  #  name: 'AR: desde la tecnología a la calidad de contenidos'
-  #  descrip: 'Cada día aparecen más dispositivos hardware y plataformas software para crear proyectos de realidad aumentada, virtual y mixta. Estamos experimentando un cambio espectacular en la industria entonces, es un buen momento para desarrollar con esta tecnología, ¿no?<br/>Esta conferencia explora diferentes plataformas y herramientas para crear aplicaciones de realidad aumentada. Además quiere concienciar de la importancia de realizarlo desde un punto de vista de experiencia de usuario, poniendo como foco a las personas, y en la importancia de los contenidos.'
-  #  speaker: 'Cynthia Gálvez López'
+  #  name: '¿Qué sabe Google de mí?'
+  #  descrip: 'Análisis de las vulnerabilidades a las que estamos expuestos como usuarios de redes sociales e internet en general.'
+  #  speaker: 'Pilar Barbero Iriarte y Laura Fernando López'
   #  bio_speaker: 
-  #  twitter_speaker:   
+  #  twitter_speaker:
+  - time: '18:30-18:55'
+    track: 2
+    name: 'AR: desde la tecnología a la calidad de contenidos'
+    descrip: 'Cada día aparecen más dispositivos hardware y plataformas software para crear proyectos de realidad aumentada, virtual y mixta. Estamos experimentando un cambio espectacular en la industria entonces, es un buen momento para desarrollar con esta tecnología, ¿no?<br/>Esta conferencia explora diferentes plataformas y herramientas para crear aplicaciones de realidad aumentada. Además quiere concienciar de la importancia de realizarlo desde un punto de vista de experiencia de usuario, poniendo como foco a las personas, y en la importancia de los contenidos.'
+    speaker: 'Cynthia Gálvez López'
+    bio_speaker: 
+    twitter_speaker:   
   - time: '19:00-19:45'
     track: all
     name: 'CIERRE'
@@ -818,7 +819,7 @@ workshops_track_1:
   - time: '09:45-10:30'
     time_start: '09:45'
     track: all
-    name: 'PRESENTACIÓN (Auditorio)'
+    name: PRESENTACIÓN Staff WTM Zaragoza (Auditorio)'
     descrip: 
     speaker: 
     duration: 1
@@ -903,7 +904,7 @@ workshops_track_1:
   - time: '19:00-19:45'
     time_start: '19:00'
     track: all
-    name: 'CIERRE: Staff WTM Zaragoza (Auditorio)'
+    name: 'CIERRE Staff WTM Zaragoza (Auditorio)'
     descrip: 
     speaker: 
     duration: 1
@@ -971,7 +972,7 @@ workshops_track_2:
     track: workshop
     name: 'Taller infantil de Inteligencia Emocional'
     descrip: 'Duracion: 1h 30m<br/>Plazas disponibles: 14 <br/>Entre 5 y 9 años <br/><br/>Desarrollar la IE a través del juego. Aprender a identificar, nombrar, expresar y gestionar las emociones de forma saludable para uno mismo y para los demás'
-    speaker: 'Proyecto Emociona-T'
+    speaker: 'Anita de Arbués'
     duration: 1
     bio_speaker: 
     twitter_speaker: 
