@@ -46,12 +46,6 @@ event_infos:
   - title: ¿A quién está dirigido el evento?
     content: Se trata de un <strong>evento abierto</strong> a cualquier persona interesada en el mundo de la tecnología.<br/><br/>Queremos abarcar diferentes temas como <strong>nuevas tecnologías, agile, comunicación, desarrollo web, UX</strong> o cualquier tema interesante del sector.<br/><br/>La asistencia al evento está abierta tanto a hombres como a mujeres, pero las ponentes serán únicamente mujeres, ya que uno de los objetivos es darles visibilidad así como ofrecer ayuda y colaboración.
     image: img/wtmz17/audience.jpg
-  ##- title: ¿Dónde se ha celebrado hasta ahora?
-  ##  content: <ul class="wtm-inline-list"> <li><i class="fa fa-map-marker"></i> Barcelona</li> <li><i class="fa fa-map-marker"></i> Logroño</li> <li><i class="fa fa-map-marker"></i> Madrid</li> <li><i class="fa fa-map-marker"></i> Málaga</li> <li><i class="fa fa-map-marker"></i> Menorca</li> <li><i class="fa fa-map-marker"></i> Reus</li> <li><i class="fa fa-map-marker"></i> Salamanca</li> <li><i class="fa fa-map-marker"></i> Tenerife</li> <li><i class="fa fa-map-marker"></i> Valencia</li></ul>
-  ##  image: img/services/girs_at_wtm_mad.jpg
-  ##- title: Algunas cifras
-  ##  content: <span class="wtm-highlight">9</span> ponentes en Barcelona<br/> <span class="wtm-highlight">10</span> ponentes en Menorca<br/> <span class="wtm-highlight">6</span> ponentes en Tarragona<br/> <span class="wtm-highlight">3</span> ponentes en Salamanca<br/> <span class="wtm-highlight">13</span> ponentes en Valencia<br/> <span class="wtm-highlight">33</span> ponentes en Madrid
-  ##  image: img/services/chatting.jpg
   - title: ¿Dónde se ha celebrado hasta ahora?
     content: En Barcelona con <span class="wtm-highlight">18</span> ponentes<br/>En Gijón <span class="wtm-highlight">12</span> ponentes<br/>En Jaén <span class="wtm-highlight">3</span> ponentes<br/>En Logroño <span class="wtm-highlight">5</span> ponentes<br/>En Madrid <span class="wtm-highlight">38</span> ponentes<br/>En Tenerife <span class="wtm-highlight">9</span> ponentes<br/>En Valencia <span class="wtm-highlight">16</span> ponentes<br/>En Vigo <span class="wtm-highlight">6</span> ponentes
     image: img/imgs_dossier/MapaSpainWTM.jpg
@@ -147,12 +141,6 @@ guests:
     image_card: img/ponentes/fichas/CristinaAranda
     twitter_account: cris_aranda_
     linkedin_account: cristinaaranda
-  #- name: Gina Tost
-  #  bio: 'Youtuber, precursora del vídeo online en el Internet, antes de la invención de YouTube, especializada en tecnología, videojuegos, economía mobile y startups.'
-  #  image: img/ponentes/GinaTost
-  #  image_card: img/ponentes/fichas/GinaTost
-  #  twitter_account: GinaTost
-  #  linkedin_account: 
 
 #List for speakers
 speakers:
@@ -188,11 +176,6 @@ speakers:
     image_card: img/ponentes/fichas/MariaFernandez
     twitter_account: meri_minimeri
     linkedin_account: 
-  #- name: Laura Fernando López
-  #  bio: 'Soy Ingeniera Informática por la Universidad de Zaragoza y desde 2017 ocupo el puesto de Analista de la Información en la Oficina de Participación, Transparencia y Gobierno Abierto en el Ayuntamiento de Zaragoza. Apasionada de las tecnologías de la información y en continuo aprendizaje. Me encanta conocer, analizar y aplicar, si es posible, las nuevas tecnologías favoreciendo la transparencia, la accesibilidad de la información y fomentando la reutilización de los datos publicando en formatos abiertos según el marco legal vigente.'
-  #  image: 
-  #  twitter_account: lafelop
-  #  linkedin_account:
   - name: Vanessa Galcerà Reales
     bio: 'Ingeniera Informática con 4 años como formadora certificada de Sun Microsystems y Red Hat. Desde 2012 realiza tareas de Lead Software Engineer en proyectos con Oracle ADF.<br/>Lleva más de 7 años involucrada en diferentes iniciativas orientadas a divulgar y formar en nuevas tecnologías como el GDGTarragona. Desde 2014, también está colaborando en dar visibilidad y potenciar la presencia de las mujeres en el campo de la tecnología organizando eventos Women Techmakers en Tarragona.'
     image: img/ponentes/VanessaGalcera
@@ -231,12 +214,6 @@ speakers:
     image_card: img/ponentes/fichas/LauraLacarra
     twitter_account: LauraLacarra 
     linkedin_account:
-  #- name: Ibana Lardies Muñoz
-  #  bio: 'Mi nombre es Ibana Lardies.<br/>Soy Ingeniera de Telecomunicaciones.<br/>Tengo 20 años de experiencia en la Industria de IT.<br/>Trabajé en un grupo bancario diseñando e implementando redes de Comunicaciones.<br/>A continuación me incorporé a IBM Spain, donde he realizado proyectos, he sido Leader en Compliance&Service Assurance en Network y actualmente soy Arquitecta de IT, diseñando soluciones para clientes.'
-  #  image: img/ponentes/IbanaLardies
-  #  image_card: img/ponentes/fichas/IbanaLardies
-  #  twitter_account: 
-  #  linkedin_account: ibana-lardies-muñoz
   - name: Keka Lopez
     bio: 'Realizadora aragonesa y activista por la soberanía tecnológica.<br/>Trabaja con diversos colectivos de artistas interdisciplinares mezclando técnicas de video,sonido y fotografiá desde el mediactivismo y la televisión experimental utilizando herramientas de software libre y licencias creative commons. <br/> Dirige mydogisa.ninja donde ha producido contenidos para organizaciones internacionaels desde campañas de protección del medio ambiente a la defensa de llos derechos humanos en Suiza, Alemania,Mexico y Reino Unido. <br/>Ha realizado dos documentales Con el Corazon en la Calle y La Hipocresía del deseo que recibió varias menciones internacionales. <br/>Su primer largo documental se encuentra en fase de grabación El Derecho a Soñar una fábula social protagonizada por hackers y comunidades indígenas sobre la primera red de telefonía celular independiente del mundo. Donde sus protagonistas hablan de la necesidad de desdibujar los horizontes , imaginar imposibles, de las posibilidades de la tecnología ,la colaboración , la gestión comunitaria y del conocimiento abierto. <br/>Este documental está siendo grabado con cámaras de video hackeadas, ampliando las posibilidades que su hardware les posibilita.'
     image: img/ponentes/KekaLopez
@@ -339,11 +316,6 @@ mentors:
 
 #List for sponsors
 sponsors_platinum:
-  #- name: Torresburriel Estudio
-  #  text: 
-  #  image: img/patrocinadores/platinum/torresburriel.png
-  #  web: http://www.torresburriel.com/
-  #  twitter: uxTBE
   - name: Fundacion Zaragoza Conocimiento
     text: 
     image: img/patrocinadores/platinum/fzc.png
@@ -401,11 +373,16 @@ sponsors_platinum:
     twitter: telefonica
 
 sponsors_gold:
-  #- name: Google
-  #  text: 
-  #  image: img/patrocinadores/platinum/google.png
-  #  web: https://www.google.es/
-  #  twitter: GoogleES
+  - name: GDG Zaragoza
+    text: 
+    image: img/patrocinadores/gold/gdgzaragoza.png
+    web: 
+    twitter: GDGZaragoza
+  - name: Vueling
+    text: 
+    image: img/patrocinadores/gold/vueling.png
+    web: https://www.vueling.com/es
+    twitter: vueling
 
 sponsors_silver:
   - name: GeoSLab
@@ -437,12 +414,22 @@ sponsors_silver:
     text: 
     image: img/patrocinadores/silver/keensoft.png
     web: http://www.keensoft.es/
-    twitter: keensoft_es    
+    twitter: keensoft_es
   - name: T3chFest
     text: 
     image: img/patrocinadores/silver/t3chfest.png
     web: https://t3chfest.uc3m.es/2019/?lang=es
     twitter: t3chfest
+  - name: Cabify
+    text: 
+    image: img/patrocinadores/silver/cabify.jpg
+    web: https://cabify.com/es
+    twitter: cabify_espana
+  - name: Codurance
+    text: 
+    image: img/patrocinadores/silver/codurance.png
+    web: https://codurance.es/
+    twitter: codurance_ES
     
 
 sponsors_others:
@@ -748,13 +735,6 @@ talks_track_2:
     bio_speaker: 
     twitter_speaker: 
     url_youtube: 
-  #- time: '17:30-17:55'
-  #  track: 2
-  #  name: 'El trabajo del futuro: Arquitecto IT'
-  #  descrip: 'Cuando creas una solución de TI y descubres qué va a hacer y cómo, y permite que todas las diferentes aplicaciones trabajen juntas, es una buena sensación.<br/>Los Arquitectos de Tecnología de la Información (TI) son el trabajo del presente y futuro: analizan las necesidades de TI de una compañía, recomiendan soluciones y supervisan su entrega e implementación. <br/>Los IT Architects tienen una gran demanda debido a que las organizaciones:<br/>- confían cada vez más en los sistemas y redes informáticos para operar de manera efectiva, y necesitan arquitectos de TI para planificar sus sistemas<br/>- están cambiando su entorno de TI a servicios especializados que almacenan, mantienen y respaldan sus aplicaciones informáticas en "la nube"'
-  #  speaker: 'Ibana Lardies'
-  #  bio_speaker: 
-  #  twitter_speaker: 
   - time: '17:30-17:55'
     track: 2
     name: '¿Qué sabe Google de mí?'
@@ -770,13 +750,6 @@ talks_track_2:
     bio_speaker: 
     twitter_speaker: 
     url_youtube:  
-  #- time: '18:30-18:55'
-  #  track: 2
-  #  name: '¿Qué sabe Google de mí?'
-  #  descrip: 'Análisis de las vulnerabilidades a las que estamos expuestos como usuarios de redes sociales e internet en general.'
-  #  speaker: 'Pilar Barbero Iriarte y Laura Fernando López'
-  #  bio_speaker: 
-  #  twitter_speaker:
   - time: '18:30-18:55'
     track: 2
     name: 'AR: desde la tecnología a la calidad de contenidos'
