@@ -482,7 +482,8 @@ talks_track_1:
   - time: '09:45-10:30'
     track: all
     name: 'PRESENTACIÓN Staff WTM Zaragoza'
-    second_name: 'Inauguración: Pilar Alegría, Consejera de Innovación, Investigación y Universidad y <br/> Elena Giner, Consejera de Participación, Transparencia y Gobierno Abierto'
+    #second_name: 'Inauguración: Pilar Alegría, Consejera de Innovación, Investigación y Universidad y <br/> Elena Giner, Consejera de Participación, Transparencia y Gobierno Abierto'
+    second_name: 'Inauguración: Elena Giner (Ayuntamiento de Zaragoza) y Pilar Alegría (Gobierno de Aragón)'
     descrip: 
     speaker: 
     bio_speaker: 
