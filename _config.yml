@@ -424,7 +424,7 @@ sponsors_silver:
     text: 
     image: img/patrocinadores/silver/cabify.jpg
     web: https://cabify.com/es
-    twitter: cabify_espana
+    twitter: CabifyDev
   - name: Codurance
     text: 
     image: img/patrocinadores/silver/codurance.png
@@ -482,7 +482,7 @@ talks_track_1:
   - time: '09:45-10:30'
     track: all
     name: 'PRESENTACIÓN Staff WTM Zaragoza'
-    second_name: 'Inauguración: Pilar Alegría, Consejera de Innovación, Investigación y Universidad'
+    second_name: 'Inauguración: Pilar Alegría, Consejera de Innovación, Investigación y Universidad y <br/> Elena Giner, Consejera de Participación, Transparencia y Gobierno Abierto'
     descrip: 
     speaker: 
     bio_speaker: 
@@ -607,7 +607,7 @@ talks_track_1:
   - time: '19:00-19:45'
     track: all
     name: 'CIERRE Staff WTM Zaragoza'
-    second_name: 'Clausura: Elena Giner, Consejera de Participación, Transparencia y Gobierno Abierto'
+    #second_name: 'Clausura: Elena Giner, Consejera de Participación, Transparencia y Gobierno Abierto'
     descrip: 
     speaker: 
     bio_speaker: 
@@ -676,7 +676,7 @@ talks_track_2:
   - time: '12:30-12:55'
     track: 2
     name: '<i>Women in XR: VR / AR / MR</i> - Una nueva realidad'
-    descrip: ''
+    descrip: 'Las tecnologías inmersivas (realidad virtual, aumentada y mixta, conglomeradas como xR) han abierto una nueva realidad ante nosotros, ¿pero qué oportunidades ofrece, qué perfiles hay, qué hay que aprender? ¿Es un mundo al que las mujeres podamos entrar? ¿De qué forma?  <br/>Hablaremos de todas estas cuestiones a través de la historia personal de un viaje dentro de la tecnología que buscaba con anhelo ser parte de la industria y convertirla en su nueva realidad.'
     speaker: 'Verónica Rodríguez Pérez'
     bio_speaker: 
     twitter_speaker: 

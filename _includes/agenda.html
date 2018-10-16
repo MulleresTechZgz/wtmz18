@@ -32,7 +32,8 @@
                 {% if talk_track_1.name == 'PRESENTACIÓN Staff WTM Zaragoza' %}
                 <td rowspan="2">{{ talk_track_1.time }}</td>
                 {% elsif talk_track_1.name == 'CIERRE Staff WTM Zaragoza' %}
-                <td rowspan="2">{{ talk_track_1.time }}</td>
+                <!--<td rowspan="2">{{ talk_track_1.time }}</td>-->
+                <td>{{ talk_track_1.time }}</td>
                 {% else %}
                 <td>{{ talk_track_1.time }}</td>
                 {% endif %}
@@ -44,9 +45,9 @@
                   <tr>
                   <td class="small" colspan="2">{{ talk_track_1.second_name }}</td>
                   {% elsif talk_track_1.name == 'CIERRE Staff WTM Zaragoza' %}
-                  <td class="small" colspan="2">{{ talk_track_1.second_name }}</td>
+                  <!--<td class="small" colspan="2">{{ talk_track_1.second_name }}</td>
                   </tr>
-                  <tr>
+                  <tr>-->
                   <td class="small" colspan="2">{{ talk_track_1.name }}</td>
                   {% else %}
                   <td class="small" colspan="2">{{ talk_track_1.name }}</td>
