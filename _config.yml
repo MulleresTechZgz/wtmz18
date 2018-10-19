@@ -130,9 +130,9 @@ organizers:
 #List for guests
 guests:
   - name: Pilar Alegría
-    bio: 'Diputada por Zaragoza en las cortes de Aragón y Consejera de Innovación, Investigación y Universidad del Gobierno de Aragón.'
+    bio: ''
     image: img/ponentes/PilarAlegria
-    image_card: img/ponentes/fichas/PilarAlegria
+    image_card: 
     twitter_account: Pilar_Alegria
     linkedin_account: 
   - name: Cristina Aranda
@@ -144,7 +144,7 @@ guests:
   - name: Elena Giner
     bio: ''
     image: img/ponentes/ElenaGiner
-    image_card: img/ponentes/fichas/ElenaGiner
+    image_card: 
     twitter_account: 
     linkedin_account:
 
