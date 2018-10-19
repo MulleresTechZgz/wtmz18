@@ -141,6 +141,12 @@ guests:
     image_card: img/ponentes/fichas/CristinaAranda
     twitter_account: cris_aranda_
     linkedin_account: cristinaaranda
+  - name: Elena Giner
+    bio: ''
+    image: img/ponentes/ElenaGiner
+    image_card: img/ponentes/fichas/ElenaGiner
+    twitter_account: 
+    linkedin_account:
 
 #List for speakers
 speakers:
