@@ -601,6 +601,7 @@ talks_track_1:
     speaker: 'Laura Lacarra'
     bio_speaker: ''
     twitter_speaker: 
+    url_youtube: q0GqEHjrP5g
   - time: '18:00-18:25'
     track: 1
     name: '<i>.Net Core</i> y <i>Aurelia.Js Challenge accepted</i>!'
@@ -692,7 +693,7 @@ talks_track_2:
     speaker: 'Verónica Rodríguez Pérez'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: 
+    url_youtube: Fv81fHornQA
   - time: '13:00-13:25'
     track: 2
     name: '"El derecho a soñar", un documental sobre hacker y comunidades indígenas'
@@ -730,7 +731,7 @@ talks_track_2:
     speaker: 'Sonsoles Valero'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: 
+    url_youtube: TNXyUV1X6yE
   - time: '16:30-16:55'
     track: 2
     name: '¿Por qué mi abuela sabe usar WhatsApp y no la aplicación del banco?'
@@ -738,7 +739,7 @@ talks_track_2:
     speaker: 'María Fernández Rodríguez'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: 
+    url_youtube: NQPA2rTQi94
   - time: '17:00-17:25'
     track: all
     name: 'DESCANSO CAFÉ'

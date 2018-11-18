@@ -10,15 +10,21 @@
   <!-- Cabecera -->
   {% include header.html %}
   <!-- Detalles -->
-  {% include details.html %}
+  {% include details.html %}  
+  <!-- Album de fotos y video resumen -->
+  {% include flickr_album_and_videos.html %}  
   <!-- Entradas -->
-  {% include tickets.html %}  
+  {% comment %}
+  {% include tickets.html %} 
+  {% endcomment %} 
   <!-- Introduccion -->
   {% include intro.html %} 
   <!-- Lista de distribucion -->
   {% include list_distribution.html %}  
   <!-- Cuenta atras -->
+  {% comment %}
   {% include countdown.html %}
+  {% endcomment %}
   <!-- Codigo de conducta -->
   {% include code_of_conduct.html %}
   <!-- Informacion sobre WTMs -->
@@ -42,9 +48,7 @@
   <!-- Lista de patrocinadores -->
   {% include list_sponsors.html %}
   <!-- Camisetas -->
-  {% comment %}
   {% include t-shirts.html %} 
-  {% endcomment %}
   <!-- Pie -->
   {% include footer.html %}
   <!-- Scripts -->
