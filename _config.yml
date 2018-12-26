@@ -506,7 +506,7 @@ talks_track_1:
     speaker: 'Nerea Luis Mingueza'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: 
+    url_youtube: FZGf6GUVLto
   - time: '11:00-11:25'
     track: 1
     name: 'Gestión TI en el Gobierno de Aragón: ¿y si te llaman 55.000 usuarios?'
@@ -514,7 +514,7 @@ talks_track_1:
     speaker: 'Mayte Ortín'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: 
+    url_youtube: 9fHCXKZMrbg
   - time: '11:30-11:55'
     track: 1
     name: '¡¡Tú tienes el PAGÜER!!'
@@ -522,7 +522,7 @@ talks_track_1:
     speaker: 'Cristina Aranda'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: 
+    url_youtube: hDVsqScGzWc
   - time: '12:00-12:25'
     track: all
     name: DESCANSO CAFÉ
@@ -537,7 +537,7 @@ talks_track_1:
     speaker: 'Girls To Program'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: 
+    url_youtube: 1zp0a5zDdPE
   - time: '13:00-13:25'
     track: 1
     rowspan: '2'
@@ -577,7 +577,7 @@ talks_track_1:
     speaker: 'Sandra Escudero Sánchez'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: 
+    url_youtube: oTXNYVIFU4E
   - time: '16:30-16:55'
     track: 1
     name: 'No me toques las webs que me conozco - <i>Legal, Security & Compliance web</i>'
@@ -585,7 +585,7 @@ talks_track_1:
     speaker: 'Susana González Ruisanchez'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: 
+    url_youtube: 96zbQBvOnxo
   - time: '17:00-17:25'
     track: all
     name: 'DESCANSO CAFÉ'
@@ -593,7 +593,6 @@ talks_track_1:
     speaker: '-'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: 
   - time: '17:30-17:55'
     track: 1
     name: 'Paciente 6.000.001 del síndrome del impostor'
@@ -609,7 +608,7 @@ talks_track_1:
     speaker: 'Azahara Fernández Guizán'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: 
+    url_youtube: BPukjDiQoYs
   - time: '18:30-18:55'
     track: 1
     name: 'Retrospectivas, unas veces van en bici, otras veces huelen bien'
@@ -617,6 +616,7 @@ talks_track_1:
     speaker: 'María Berenguer'
     bio_speaker: 
     twitter_speaker: 
+    url_youtube: Dx2OxeiLfQM
   - time: '19:00-19:45'
     track: all
     name: 'CIERRE Staff WTM Zaragoza'
@@ -670,7 +670,7 @@ talks_track_2:
     speaker: 'Alba Pardo Ortiz'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: 
+    url_youtube: DCCaArrhpTY
   - time: '11:30-11:55'
     track: 2
     name: 'Digitalización del sector de la construcción, arquitectura e ingeniería'
@@ -678,7 +678,7 @@ talks_track_2:
     speaker: 'Andrea Gracia García y Eva Omedes Domene'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: 
+    url_youtube: O_rxzfFYmNA
   - time: '12:00-12:25'
     track: all
     name: DESCANSO CAFÉ
@@ -747,14 +747,14 @@ talks_track_2:
     speaker: '-'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube: 
   - time: '17:30-17:55'
     track: 2
     name: '¿Qué sabe Google de mí?'
     descrip: 'Análisis de las vulnerabilidades a las que estamos expuestos como usuarios de redes sociales e internet en general.'
     speaker: 'Pilar Barbero Iriarte y Laura Fernando López'
     bio_speaker: 
-    twitter_speaker:
+    twitter_speaker: 
+    url_youtube: pg0p0s72-W4
   - time: '18:00-18:25'
     track: 2
     name: 'Experiencias realizando mi primer videojuego'
@@ -762,14 +762,15 @@ talks_track_2:
     speaker: 'Vanessa Galcerà Reales'
     bio_speaker: 
     twitter_speaker: 
-    url_youtube:  
+    url_youtube: onjsUoex2mQ
   - time: '18:30-18:55'
     track: 2
     name: 'AR: desde la tecnología a la calidad de contenidos'
     descrip: 'Cada día aparecen más dispositivos hardware y plataformas software para crear proyectos de realidad aumentada, virtual y mixta. Estamos experimentando un cambio espectacular en la industria entonces, es un buen momento para desarrollar con esta tecnología, ¿no?<br/>Esta conferencia explora diferentes plataformas y herramientas para crear aplicaciones de realidad aumentada. Además quiere concienciar de la importancia de realizarlo desde un punto de vista de experiencia de usuario, poniendo como foco a las personas, y en la importancia de los contenidos.'
     speaker: 'Cynthia Gálvez López'
     bio_speaker: 
-    twitter_speaker:   
+    twitter_speaker: 
+    url_youtube: 
   - time: '19:00-19:45'
     track: all
     name: 'CIERRE'
